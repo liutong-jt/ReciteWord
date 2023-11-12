@@ -1,0 +1,5127 @@
+regress:
+[词源]:-gress : to go
+
+progress:进度
+[词源]:-gress : to go
+
+ingress:进入
+[词源]:-gress : to go
+
+improvise:即兴创作
+
+benefactor:
+[词根]:fact: to make 做
+[派生词]:factory, manufactory
+
+manufacturer:制造商
+
+shelter:避难所，保护
+[词源]:shell
+[派生词]:shield;
+
+fetter:束缚，脚镣
+[词源]:fet-feet 脚
+
+disburse:支付，付款
+[前缀]:re:1.再次；2.回来；3.向后。im: into
+[词源]:purse(b-p) 钱包
+[助记]:reimburse
+
+kindle:
+[词源]:candle 蜡烛 （k-c; i-a）辅音读音相似
+
+sunder:v.;分开，裂开
+[词源]:thunder：雷霆
+[助记]:被雷劈裂开
+[反]:link
+
+miscellaneous:混杂的，各种各样的
+[前缀]:mis- :mix(s-x) 读音相似
+[后缀]:-aneous形容词后缀，同-ous。没有实际的含义。
+[助记]:mix cell adj. 混合的细胞-混杂的
+
+masquerade:假面舞会
+[后缀]:-ade 名词后缀
+[词源]:mask (qu-k) 读音相似
+[助记]:mask + er + 名词后缀 假面舞会
+
+renovate:翻新
+[前缀]:re-(1.再一次；2.返回；3.向后）
+[后缀]:-ate 动词后缀
+[词源]:new (e-o, w-v)
+[助记]:renew：更新
+[知识点]:形近字母的变化(u/v/w, m/n) 在u->w/v时，一般去除w/v旁边的元音, 因为u发元音。
+
+lurk:潜伏,;埋伏
+[词源]:lower (w-u, u发元音，去除w旁边的元音：lwr.造词往往在单词末尾添加轻辅音k。Lwrk -> lurk
+[知识点]:形近字母的变化(u/v/w, m/n) 在u->w/v时，一般去除w/v旁边的元音, 因为u发元音。
+
+hierarchy:等级制度，阶级
+[词根]:higher
+[助记]:anarchy 无政府状态
+[知识点]:(g/h不发音脱落去掉)
+
+assent:同意
+[前缀]:a+辅音双写，在动词上，99%表示动作的加强。含义都一样。
+[词根]:sent ：sense 感觉。（固定转换：s/t/d;p/b/f/v/ph）
+[助记]:dissent 不同意 dis-:not 感觉的否定，不同意
+[近]:agree
+
+amorphous:无定的，无形状的
+[前缀]:a/an- 表否定
+[后缀]:-ous 形容词后缀
+[词源]:morph: morf(希腊造词一般反着写): morph->morf->form 格式，形状
+[助记]:无形状的
+[知识点]:固定转换：s/t/d;p/b/f/v/ph
+
+pyre:柴火
+[词源]:fire :  p->f, （元音转换）y->i
+[知识点]:固定转换：s/t/d;p/b/f/v/ph
+
+spout:喷出
+[助记]:speak, spit, spew, spread, 	spawn
+[联想]:sprout: r 像一个小牙，-> 发芽
+[知识点]:（字母组合1/12） sp
+
+scroll:卷轴;
+[派生词]:scratch； craft
+[知识点]:（字母组合2/12）scr/cr
+
+fiend:恶魔，恶人
+[助记]:把'r'想象成花，有花的是朋友friend, 没花的是恶魔
+[联想]:womanish：娘娘腔；mannish：男性化；womanly：女人味；manly：男子气概
+
+chrysanthemum:菊花
+[联想]:c(h)ry san the mum
+
+pestilence:瘟疫
+[助记]:pest:害虫，
+
+morose:郁闷的
+[联想]:mo + rose 没有rose 郁闷
+
+precarious:不安全的
+[前缀]:pre- 前方的
+[后缀]:-ious 形容词后缀
+[联想]:pre- 前方的;car 车;-ious形容词后缀。车前不安全
+
+avalanche:雪崩
+[联想]:ava + lan 拦+ che 车
+
+abjure:v.;宣布放弃，放弃权力
+[前缀]:ab- (away 远离） abnormal远离正常
+[词根]:jure: to swear 发誓
+[助记]:远离陪审团，宣布放弃
+[近]:relinquish：放弃（被迫放弃，不得不放弃）
+[反]:espouse：拥护
+
+adjure:嘱咐，恳求
+[前缀]:ad- 加强
+[词根]:jure: to swear 发誓
+[助记]:加强陪审团
+
+conjure:vt.;念咒召唤，用魔法变出，想象，提出，恳请;vi.;施魔法，变魔术，变戏法
+[前缀]:con- 共同
+[词根]:jure: to swear 发誓
+[助记]:由 con+ jure(发誓、诅咒)构 成，字面意思就是“一道发誓”，也就是“密谋”(conspire)的意思，从而衍生出“发誓请求”、“恳请”的意思
+[释义]:do a magic. 魔术师conjureor
+
+perjure:*伪证
+[前缀]:per- 1.through贯穿，自始至终；2.away远离
+[词根]:jure: to swear 发誓
+[助记]:原理陪审团-作伪证
+[联想]:jury. 即信誓旦旦，词义贬义化，引申词义作伪证，发假誓
+
+jury:陪审团
+[词根]:-jur- 法律 , 公正 + -y
+[助记]:来自拉丁语 iurare, 发誓，誓言，来自 ius, 法律，词源同 adjure,just,judge. 即以誓言保证公正审判的人，引申词义陪审团
+
+perjury:伪证，假誓
+[前缀]:per- 1: through 贯穿，从始至终； 2. away 远离
+[词根]:jury 即信誓旦旦，词义贬义化，引申词义作伪证，发假誓
+[词源]:jure -> jury
+
+espouse:拥护
+[前缀]:e-
+[词源]:spouse: 配偶
+[助记]:sp-: spouse：配偶; spawn：产卵
+[知识点]:99%的前缀都有一个共同的意思：加强
+
+abominate:vt.;痛恨;憎恶
+[前缀]:ab- (away 远离） abnormal远离正常
+[后缀]:-ate 形容词后缀
+[词源]:omin <-拉丁语 omen （预兆）
+[助记]:ab （离开）+ omin （凶兆）+ ate （动词后缀）→视为凶兆躲开→痛恨，憎恶
+[派生词]:ominous
+
+abhor:vt.;痛恨，憎恶
+[前缀]:ab- (away 远离） abnormal远离正常
+[词源]:hor->horrible
+[助记]:远离恐惧
+[联想]:horror （惊骇、恐怖）、 horrible （恐怖的、极其讨厌的）、 abhorrent （可恶的、讨厌的）
+
+loathe:厌恶的
+[词源]:oath：誓言
+[助记]:loath：n.不愿意
+
+abstain:vi.禁绝，放弃（戒烟酒），弃权
+[前缀]:ab- (away 远离） abnormal远离正常
+[词源]:maintain->tain: 保持，维持
+
+abstinence:禁欲
+[前缀]:ab-
+[后缀]:-ence 名词后缀
+[词源]:maintain-tain
+[知识点]:ab- 后加t/c为了平衡音节需要加一个s，即abs-，但s无实际含义。例如：abstract, abscond潜逃. 反例:absolve.
+
+maintain:维护
+
+detain:拘留，扣下
+[前缀]:de- 1.off远离;2.下降下来
+[词源]:maintain->tain
+[助记]:留下来  保持住->拘留
+
+retain:保留，保持
+[前缀]:re- (1.再一次；2.返回；3.向后）
+[词根]:-tain 保持
+[助记]:再次留下来-> 保留
+
+pertain:从属;相关，关于
+[前缀]:per-(1.through贯穿，从始至终；2.远离away)
+[助记]:per- 完全 -tain 保持维持 -> 从属，相关
+[派生词]:pretinent
+[释义]:1.belong to 属于；2.refer to关于
+
+distain:贬低，;使…变色ˌ将…弄脏ˌ伤害…的名誉
+[前缀]:dis-: 1. not
+[词根]:-tain 保持
+[助记]:dis- tain  不在保持 -> 弄脏
+
+disdain:藐视
+[前缀]:dis-: 1. 否定
+[词根]:-dain, 同 -dign, 尊贵
+
+acerbic:尖刻的，尖酸的
+[后缀]:-ic 形容词后缀
+[词根]:ac/acerb/acr : 1.sour酸；2.sharp尖的
+
+exacerbate:加剧，;使恶化
+[前缀]:ex- (1.向外；2.加强）
+[后缀]:-ate
+[词源]:acerb
+
+acrid:adj.;辛辣的，哭的，刻薄的，刺鼻的
+[后缀]:-id 形容词后缀
+[词根]:ac/acerb/acr : 1.sour酸；2.sharp尖的
+
+acrimonious:(尤指争吵)尖酸刻薄的，讥讽的
+[后缀]:-ious 形容词后缀
+[词根]:-mon- 提醒
+
+acne:粉刺，痘痘
+[词根]:ac/acerb/acr : 1.sour酸；2.sharp尖的
+[助记]:ne是粉刺痘痘，me是极致的
+[派生词]:acme
+
+acumen:n.;聪明，敏锐
+[后缀]:-men 名词后缀，表性质
+[词根]:ac/acerb/acr : 1.sour酸；2.sharp尖的
+[联想]:acute （急性的、敏锐的）， acuity （敏锐）， acrobat （杂技演员）
+[释义]:have a quick mind and a good judgement.
+
+affluence:富裕的（金钱、物资等）
+[后缀]:-ence 名词后缀。这类词变形容词一般变成-ent。
+[词根]:flu -> flow 流淌、流动
+[助记]:flu流感; fluency n.流利
+[派生词]:flu；fluency
+[近]:rich
+[释义]:well to do == well off
+[知识点]:a+辅音双写，在动词上，99%表示动作的加强。含义都一样。
+
+superfluous:过剩的，多余的
+[前缀]:super- (1.超级;2.方向向上;3.过多)
+[后缀]:-ous 形容词后缀
+[词根]:flu -> flow 流淌、流动
+[助记]:超级富有的，-多余的
+
+effluvia:恶臭
+[词根]:flu -> flow 流淌、流动
+[助记]:effrontery：厚颜无耻. ex-front-ery （脸）向外向前->厚颜无耻
+[派生词]:effrontery
+[知识点]:e+辅音双写，一般是ex-的变体，表示方向向外。
+
+fluctuate:波动、浮动
+[后缀]:-ate 动词后缀
+[词根]:flu -> flow 流淌、流动
+[释义]:go up and down。数字/价格波动，浮动
+
+flux:时间的流逝，变迁，改变，通量
+[词根]:flu -> flow 流淌、流动
+
+influx:流入
+[词根]:flu -> flow 流淌、流动
+
+affront:vt.;冒犯，有意冒犯;面对;公开侮辱;n.;轻蔑;公开侮辱
+[前缀]:a+辅音双写，在动词上，99%表示动作的加强。含义都一样。
+[词根]:forehead -> -front 前边，额头
+[助记]:加强在前边-> 侮辱
+[联想]:front （额、前面、前线）， frontal （额的、正面的）， frontier （前沿、边境）， confront （面对、遭遇←相互面对）
+[近]:insult 侮辱
+
+confront:对抗,;面临
+[前缀]:a+辅音双写，在动词上，99%表示动作的加强。含义都一样。
+[词根]:forehead -> -front 前边，额头
+[助记]:共同向前-> 面临，对抗
+[联想]:front （额、前面、前线）， frontal （额的、正面的）， frontier （前沿、边境）， confront （面对、遭遇←相互面对）
+[用法]:be ~ed with = be faced with 面对...挑战
+
+effrontery:厚颜无耻.
+[前缀]:e+辅音双写，一般是ex-的变体，表示方向向外。
+[助记]:ex-front-ery （脸）向外向前->厚颜无耻。 = shamelessness
+[联想]:front （额、前面、前线）， frontal （额的、正面的）， frontier （前沿、边境）， confront （面对、遭遇←相互面对）
+
+revile:辱骂
+[前缀]:re- (1.再一次；2.返回；3.向后）前缀都有加强动作情感的意思
+[词源]:evil-> -vile 恶毒的
+[助记]:加强恶毒 -> 辱骂
+[近]:abuse：滥用;虐待;辱骂. abusive adj.
+
+abuse:滥用;虐待;辱骂.
+[前缀]:ab- away远离
+[词源]:away-use 滥用
+
+vilify:丑化,诽谤
+[后缀]:-ify ...化的。amplify放大; beautify美化;simplify简化；purify纯化
+[词源]:evil-> -vile 恶毒的。vil-
+[助记]:amplify放大; beautify美化;simplify简化；purify纯化
+[派生词]:amplify; beautify; simplify; purify
+
+vile:邪恶的
+[词源]:evil
+
+abusive:a.;滥用的，虐待的
+
+disabuse:纠正，改正（思想，观点）
+[前缀]:dis- :not 表否定
+[词源]:abuse 滥用
+[助记]:dis- abuse  不错误的使用 -> 醒悟 -> 纠正，改正（思想）
+
+peruse:细读
+[前缀]:per-(1.through贯穿，从始至终；2.远离away)
+[助记]:peruse a book 细读一本书
+[释义]:read some carefully
+
+correct:正确的
+
+allay:vt;减轻，减少（情感）
+[前缀]:a+辅音双写- 加强
+[助记]:a （倒）+ l （连接成分）+ lay （躺）→让人躺倒→休息→减轻、使缓和、使平静
+[联想]:加强- 躺一会 -> 减轻了
+[近]:slay, flay, waylay
+
+alleviate:减轻
+[前缀]:a+辅音双写- 加强
+[词根]:lev: 1.rise（电梯elevator）；2.轻的（能被举起来，轻）
+[词源]:lift -> lev(i->e, f->v)
+[联想]:levity （轻浮、轻率）， levitate （飘浮）， elevate （提升、举起），elevator（电梯）， relieve （减轻、救济）
+
+levity:轻率的
+[反]:gravity 稳重；重力
+
+levy:征
+[助记]:levy tax on 征税
+[反]:rescind  （不征税）废除，取消
+
+gravity:比重
+[助记]:levity 轻浮，轻佻
+
+rescind:废除，取消
+[前缀]:re-(1.再一次；2.返回；3.向后）
+[词源]:scissor 剪刀 (s->d, n/m可以去掉)
+[助记]:再一次剪掉去掉
+
+slay:杀死=kill
+[词源]:slaughter 的简写: 屠杀
+[知识点]:（字母组合-/12）sl 和滑倒有关，倒下有关
+
+flay:去皮
+[助记]:flay a sheep
+[释义]:To remove the skin or remove the peel from sth.
+
+waylay:埋伏
+[助记]:躺在路边-> 埋伏，潜伏
+[近]:lurk -> lower
+
+aloof:adj/adv.冷淡的，孤零的,;远离的
+[前缀]:a-:(1.否定；2.（所有前缀）加强
+[词源]:leave -> loof( ea-oo, v-f)
+[派生词]:aground, afoot, alight, akin
+[知识点]:造词：a+v./adj. -> adv. 例如：aloud,alive
+
+aground:a/adv.;搁浅
+
+afoot:1.徒步的;2.在进行中
+[近]:on foot
+
+alight:下车;adj.;燃烧着;闪亮的
+
+akin:同族的;亲戚的;同源的;类似于
+[词根]:-kin 亲戚
+
+apathy:n.;冷漠
+[前缀]:a-:(1.否定；2.（所有前缀）加强
+[词根]:path 情感 =feeling
+[助记]:无- 情
+[派生词]:sympathy; antipathy ；
+
+sympathy:同情
+[前缀]:sym -> same 相同
+[词根]:path 情感
+
+antipathy:n.反感
+[前缀]:anti- 相反
+[词根]:path 情感
+[助记]:antibody 抗体
+[派生词]:antibody
+
+frigid:adj.;寒冷
+[后缀]:-id 形容词后缀
+[词源]:fridge->frig 冰箱
+
+offish:冷漠
+[前缀]:off- 远离
+[后缀]:-ish 形容词后缀，像...一样的
+[助记]:很远的感觉->冷淡的, 离我远点
+
+passion:激情
+[词源]:path（th->s）情感
+
+alternative:替代,可供选择的
+
+egoism:利己主义
+[词源]:ego 自我
+[派生词]:egocentric
+
+egocentric:以自我为重心的
+[后缀]:-ic
+[词根]:centr 中心
+[词源]:ego 自我
+
+alternate:交替，轮流
+[词根]:altr/alter -> other其他的 （a->o, del l, h不发音脱落)
+
+altercate:争论
+[词根]:altr/alter -> other其他的 （a->o, del l, h不发音脱落)
+[联想]:c 吵，跟其他人吵
+
+altruism:n.;利他主义
+[后缀]:-ism ...主义，精神
+[词根]:altr/alter -> other其他的 （a->o, del l, h不发音脱落)
+[派生词]:alternative ；alternate ;altercate ;aldulterate
+[联想]:all true ism 所有的一切都是非常真诚->利他主义
+[反]:egoism:利己主义
+
+adulterate:v.掺杂
+[前缀]:ad- 加强
+[词根]:altr->ulter
+[助记]:adultery通奸；adulate谄媚
+[联想]:adult林子大了什么鸟都有，掺杂在一起
+[用法]:~ A with B: 往A里掺B
+
+amalgam:n.;混合物，汞合金
+[派生词]:v. amalgamate 1.混合mix；2.（企业的）联合/合并=combine
+[近]:coalesce 联合合并 -esce 后缀
+
+amalgamate:n.;混合混杂
+[词根]:1.混合mix；2.（企业的）联合/合并=combine
+[助记]:v. amalgamate
+
+coalesce:联合;合并
+[前缀]:co- 合并，一起
+[后缀]:-esce v./escent n./escence adj. 逐渐...样的
+[派生词]:adolescence 青春期, adolescent青少年
+
+adolescence:青春期
+[后缀]:-esce v./escent n./escence adj. 逐渐...样的
+[词根]:adult->adol成年人
+[派生词]:adolescent青少年
+
+ambush:v.潜伏;n.伏兵
+[前缀]:am（源im- 元音变形） 在里边
+[助记]:im- bush 在灌木丛中 -> 潜伏
+[近]:lurk v.潜伏，waylay v.潜伏
+[形近词]:lush, plush, gush, hush, blush
+
+lush:a.郁郁葱葱
+[词源]:lux (s-x) 奢侈奢华
+[助记]:lush forest 繁茂的树林
+[联想]:拉lu屎sh 繁茂树木
+
+plush:a.豪华
+[词源]:lux 奢华
+[助记]:p轻辅音，加强语气
+[联想]:漂p亮l才会豪华
+
+gush:v.涌出
+[联想]:gu出就是涌出
+[近]:spout
+
+hush:v.别吵
+[联想]:呼吸hu需要安静
+[释义]:keep silence
+
+blush:v.腮红
+[助记]:bl- 颜色有关
+
+amorous:a.多情的，恋爱的
+[前缀]:am- [法语] love
+[后缀]:-ous 形容词后缀
+[助记]:amour：n.爱情
+[派生词]:enamor ;pamper；
+
+amour:n.;爱情
+
+amiable:和蔼可亲
+[后缀]:-able 能
+[助记]:能让人爱的
+[近]:amicable
+
+amicable:友好，亲切
+[后缀]:-able 能
+[助记]:amic （朋友）+ able （能够）→能够做朋友的→和蔼的
+
+amity:友好
+[后缀]:-ty 99%都是名词
+[助记]:和爱有关的名词
+
+enmity:敌意
+[助记]:enemy敌人
+
+enamor:迷住
+[前缀]:en- 加强
+[助记]:加强爱 -> 喜爱迷住
+[用法]:be ~ed of
+
+pamper:溺爱
+[后缀]:-er 表示动作（在这里不表示人了）
+[助记]:帮宝适纸尿裤-就是这个单词
+[联想]:手掌-爱-手掌，把爱捧在手里 -> 溺爱
+[释义]:spoil child 溺爱
+[知识点]:单音节词开头p一般和手掌有关系，paw手爪;palm手掌;piano
+
+hostile:敌对
+[后缀]:-ile 形容词词尾
+[词根]:-host- 敌人
+[词源]:host 东道主
+[助记]:反客为主 -> 敌人
+
+amphibian:a./n.;两栖的/两栖动物
+[前缀]:amphi-/ambi- 1.周围around;2.两
+[后缀]:-bio-> -bian 生命
+[助记]:两种生活生物 -> 两栖类的
+[派生词]:ambition; ambiguous; ambivalent; ambivalent;
+
+ambition:野心
+[前缀]:amphi-/ambi- 1.周围around;2. 两
+[助记]:四处游走的-> 有野心的
+
+ambiguous:模棱两可的，暧昧
+[前缀]:ambi-/amphi- 1.周围;2.两
+[后缀]:-ous 形容词后缀
+
+ambivalent:矛盾，内心纠结的
+[前缀]:ambi-/amphi- 1.周围;2.两
+[后缀]:-ent 形容词后缀
+[词根]:val -> value 价值
+[助记]:模棱两可的价值观 -> 矛盾的
+
+ambidextrous:灵巧的
+[前缀]:ambi-/amphi- 1.周围;2.两
+[词根]:dextr 右手的
+[助记]:两只右手->双手灵巧的
+
+ambience:气氛
+[前缀]:ambi-/amphi- 1.周围;2.两
+[后缀]:-ence 名词后缀
+[助记]:atmosphere大气气氛
+
+acquiesce:vi.默许，勉强同意
+[前缀]:ac- 加强
+[后缀]:-esce v./escent n./escence adj. 逐渐...样的=gradually
+[词根]:quiet -> quie
+[助记]:逐渐的慢慢静下来 -> 默许
+[派生词]:quiescent：静止期; quietus：默默无闻
+[用法]:~ in
+
+efflorescence:开花，风化
+[前缀]:e+辅音双写 -> ex- 向外
+[后缀]:-escence 逐渐...样的
+[词根]:flower -> flor-  开花
+
+quiet:安静
+
+quiescent:a.静止的
+
+quietus:n.死亡解脱;债务的偿还偿清
+[后缀]:-us 名词后缀(拉丁)
+[联想]:大家都安静了-> 死亡解脱；债务的偿还偿清
+[释义]:1.death;2.pay off debt
+
+acquittal:n.;宣判无罪
+[前缀]:ac- 加强
+[词根]:quit 退出
+
+acquit:vt.;无罪释放
+[前缀]:ac- 加强
+[词根]:quit 退出
+[用法]:~ sb. of sth. 宣判某人无罪
+[反]:convict 宣判某人有罪
+
+convict:罪犯
+[前缀]:con- 一起
+[词根]:vict 征服，战胜
+[助记]:在法律前面一起被征服了 -> 宣判有罪
+[联想]:acquit 无罪释放
+
+addle:v.1.使困惑,2.腐坏
+[后缀]:-le 如果该单词是动词，-le往往是动词的后缀
+[助记]:（背单词）不断增加，不断增加 ->（很多单词）就迷惑了
+[用法]:addle eggs 坏鸡蛋; addle one’s brain使困惑
+
+baffle:使困惑
+[助记]:buffalo水牛；babble儿语，婴语言，胡乱说话
+
+babble:儿语，婴语言，胡乱说话
+
+bewilder:迷惑困惑
+[前缀]:be-重音在下边一个音节，表加强
+[词根]:wild 狂野的
+[助记]:被迷惑的事情抓狂
+
+adept:a.熟练的
+[前缀]:ad- 加强（只有这一个意思）
+[词源]:expert(1.专家2.精通的熟练的)的简写 -> ept
+[派生词]:inept不熟练的。inapt不恰当的
+[近]:deft：灵巧。adroit：熟练
+[形近词]:adapt合适的；adopt采纳
+
+adopt:vt.;采取;接受;收养;正式通过;vi.;采取;过继
+[前缀]:ad- 加强（只有这一个意思）
+[词根]:opt- option 选择
+[助记]:opt （选择）→选择然后采用→采纳；选择然后领走→收养
+[联想]:adoption （采用、收养）， option （选项、选择权）， opt （选择）
+
+adapt:合适的，适应的
+[前缀]:ad- 加强（只有这一个意思）
+[词根]:apt a.1.易于..样的
+[词源]:appropriate（合适的，适当的）的简写-> apt
+
+inept:不称职
+[前缀]:in- not否定
+
+inapt:不恰当的
+[前缀]:in- not否定
+
+appropriate:适当的
+
+deft:灵巧的,熟练的
+[联想]:left d左手熟练的
+[反]:daft 愚蠢的
+
+adroit:灵巧,熟练的（口吃伶俐）
+[前缀]:ad- 加强
+[词根]:drive->droit 驱动
+[助记]:加强使能够驱动-> 熟练的
+
+adjacent:a.;临近的，毗邻的，挨着的
+[前缀]:ad- 加强
+[后缀]:-ent 形容词后缀
+[词根]:jac/ject -> to throw 扔
+[助记]:join -变体> jac 连接
+[派生词]:reject拒绝；inject注射；deject使沮丧;abject卑鄙的;conjecture猜想;ejaculate：射出
+[用法]:be ~ to: A is adjacent to B/ ~ sth.
+[近]:abut to;adjoin vt.与..临近
+
+reject:拒绝
+[前缀]:re-(1.再一次；2.返回；3.向后）
+[词根]:ject/jac -> to throw
+[助记]:往回扔，拒绝
+
+inject:注射
+[前缀]:in- 向里，内部
+[词根]:ject/jac -> to throw
+[助记]:往里扔，注射
+
+deject:使沮丧
+[前缀]:de- 向下
+[后缀]:ject/jac to throw扔
+[助记]:depress 使沮丧
+
+abject:adj.;卑鄙的;可怜的;不幸的
+[前缀]:ab- away远离
+[后缀]:ject/jac to throw扔
+[助记]:被扔一边 -> 可怜的
+
+conjecture:猜想,推测
+[前缀]:con- 一起，共同
+[后缀]:ject/jac to throw扔
+[助记]:共同扔（思想）-> 猜测
+
+ejaculate:射精;叫声、尖叫（声音出来）
+
+abut:毗邻
+[词源]:about (ou->u元音通假变形)
+[助记]:abut = a （去）+ but （尽头、边界）→靠近边界→毗邻。
+[用法]:A abut on B: A挨着B
+
+depress:抑制
+
+adjoin:vt.与..临近
+[助记]:加强连接 -> 与..临近
+
+adjourn:vi.延期休会;vt.中止，推迟
+[前缀]:ad- 动作的加强（只有这一个意思）
+[词根]:journ -> （法语）与天有关
+[助记]:加强 几天 -> 延期
+[派生词]:sojourn：逗留；diurnal：周日；nocturnal：夜间
+
+journey:旅程
+[词根]:journ -> （法语）与天有关
+[助记]:一天一天的旅程安排，得每天安排日程
+
+journal:杂志
+[词根]:journ -> （法语）与天有关
+[助记]:每日的杂志
+
+sojourn:n/v.逗留,;暂居暂住
+[词根]:sub -> so- 在..之下
+[联想]:(有暂住的地方) so(所以)journey（去旅行）
+
+diurnal:a.白天的，白天发生的
+[前缀]:day -> di- 天
+[后缀]:-al 形容词后缀
+[词根]:(jo)urn -> （法语）与天有关
+[反]:nocturnal夜间，夜间发生的
+
+nocturnal:a.夜间
+[前缀]:night-> noct- 黑天
+[后缀]:-al 形容词后缀
+[词根]:(jo)urn -> （法语）与天有关
+[反]:diurnal白天的，白天发生的
+
+adultery:n.通奸
+
+adulate:v.奉承
+
+annihilate:vt.歼灭消灭
+[前缀]:a+辅音双写 加强
+[后缀]:-ate 动词后缀
+[词根]:nihil -> 虚无，没有 nothing
+[助记]:加强+没有（敌人）
+[派生词]:nihilism; null;nullify;annul
+[联想]:no hil 没有山-虚无
+[近]:eliminate
+[知识点]:n字母开头的单词,通常与否定的意思相关联
+
+nihilism:n.虚无主义
+[后缀]:-ism ..主义的,..精神的
+
+null:a.空的
+
+nullify:v.使无效
+[后缀]:-ify 动词后缀: ..化的（amplify; beautify;simplify；purify
+
+annul:v.废止，使之无效
+[前缀]:a+辅音双写 加强
+[形近词]:annual 年度
+
+eliminate:消除，淘汰，排除在外
+[前缀]:e- 向外 out
+[词源]:limit
+[助记]:关到界限之外 -> 排除在外
+
+limit:限制
+
+annotate:v.注释
+[前缀]:a+辅音双写 加强
+[词根]:note-> nota :to mark做记录
+[派生词]:notation;connotation;denotation;notorious
+
+notation:标记,符号（高音谱号，化学符号）
+[词根]:note-> nota :to mark做记录
+[派生词]:connotation; denotation
+
+connotation:演绎，内在含义，内涵
+[词根]:note-> nota :to mark做记录
+
+denotation:意思，意义;=;meaning
+[前缀]:de- 1.向下2.除去
+[词根]:note-> nota :to mark做记录
+[助记]:95%的前缀都有一个意思（加强）：加强+符号
+
+notorious:臭名昭著的，明显的（负向意义）
+[词根]:noto-> nota :to mark做记录
+[助记]:marked 明显的显著的（正常意义的）
+
+antagonize:vt.敌对，对抗
+[前缀]:anti- 相反的
+[后缀]:-ize  industrialize
+[词根]:agon/ag(ig 高频变体) -> act(ACT -> AG: G=CT写法)
+[派生词]:agenda 日程安排;agency(情报)局机构;agitate; cogitate;cogent; exigent
+
+agitate:vt.;摇动;骚动;使…激动;vi.;煽动*
+[词根]:it:走看go visit
+[助记]:（同志们）走，去行动啊->煽动
+
+cogitate:vi.在思考
+[前缀]:co- 共同
+[词根]:agon/ag(ig 高频变体) -> act(ACT -> AG: G=CT写法)
+[词源]:(a)gitate
+[助记]:共同行动-> 思考；在煽动的时候，仔细思考
+[用法]:~ on sth. 考虑事情
+
+cogent:有说服力的*
+[词根]:agon/ag(ig 高频变体) -> act(ACT -> AG: G=CT写法)
+[助记]:cogent evidence 令人信服的证据
+[释义]:persuade v.说服劝说；persuasive a.
+
+exigent:a.紧急
+[前缀]:ex- out向外
+[后缀]:-ent 形容词后缀
+[词根]:agon/ag(ig 高频变体) -> act
+[助记]:向外行动，出动 -> 紧急出动
+
+evidence:证据
+
+antagonist:n.敌人，对手。拮抗剂
+[前缀]:anti- 相反的
+[后缀]:-ist ..人
+[词根]:agon/ag(ig 高频变体) -> act
+[近]:oppontent/rival 敌人
+
+protagonist:主角
+[前缀]:pro- 前
+[后缀]:-ist ..人
+[词根]:agon/ag(ig 高频变体) -> act(ACT -> AG: G=CT写法)
+[助记]:先前行动的人 -> 主角
+
+opponent:对手
+
+aquatic:a.水生的，水栖的
+[后缀]:-ic 形容词后缀
+[词根]:aqua(拉丁)-> water 水
+[助记]:aqua+(a)t+ic 在水里的->水生的,水栖的
+[派生词]:aqueous; opaque
+
+aqueous:a.水容的，含水的
+[后缀]:-ous 充满了..
+[词根]:aque(a-e)(拉丁)-> water 水
+
+opaque:不透明*，晦涩难懂的
+[前缀]:op-(来自ob-的变体) 1.加强2.相反
+[词根]:aque(a-e)(拉丁)-> water 水
+[助记]:transparent透明的。与水相反的-> 不透明的
+
+aquifer:[地]含水层
+[词根]:fer -carry 搬，携带，运载
+[派生词]:transfer换乘站；ferry渡轮；infer推论
+
+transparent:透明的
+[词根]:trans-, 进入，穿过， -par, 发光，透明
+[助记]:appear,apparent.
+
+arboretum:n.树木园，植物园
+[后缀]:etum （园）
+[词根]:arbor/arb （herb -> h不发音脱落）树 tree
+
+arbor:n.树荫，凉亭
+[形近词]:harbor 港口（挡风雨的）,arbor遮太阳的
+
+arboreal:*树木的，树生的
+[后缀]:-al 形容词
+[词根]:arbor/arb （herb -> h不发音脱落）树 tree
+
+harbor:港口
+[词源]:har-, 军队，队伍，词源同 here,harry,-bor, 保护，庇护所
+
+ardent:a.热心的，热情洋溢的，燃烧般的
+[后缀]:-ent 形容词后缀
+[词源]:ash->ard/ars(拉丁) -> to burn 燃烧
+[派生词]:ardor;arson;arsonist
+[形近词]:arduous
+
+arduous:艰巨的,辛苦费力的，困难的
+[后缀]:-uous/-ous 形容词后缀
+[词源]:hard (g/h不发音脱落去掉)
+
+ardor:n.热情
+[词源]:ash->ard/ars(拉丁) -> to burn 燃烧
+[释义]:to read with ardor有感情的朗读
+[形近词]:arbor 树荫
+
+arson:纵火
+[词源]:ash->ard/ars(拉丁) -> to burn 燃烧
+
+arsonist:纵火犯
+[后缀]:-ist ..人
+[词源]:ash->ard/ars(拉丁) -> to burn 燃烧
+
+fervid:热情的
+[后缀]:-id 形容词后缀
+[词源]:fever发烧 -> ferv
+
+fervent:热情的
+[后缀]:-ent 形容词后缀
+[词源]:fever发烧 -> ferv
+
+perfervid:十分热情的
+[前缀]:per- 1.through；2.away
+[后缀]:-id 形容词后缀
+[词源]:fever发烧 -> ferv
+[助记]:从头到尾的热情
+
+shield:n.盾牌;v.保护
+[用法]:~  + from
+
+reimburse:报销，偿还
+[前缀]:im- 进入
+[词根]:purse -> burse 钱包
+[助记]:（re + im + purse）重新回到钱包-报销
+
+link:链接
+[反]:sunder
+
+anarchy:无政府状态
+[前缀]:an- 表否定
+[词根]:higher;  anch- 统治
+[助记]:hierarchy等级制度，阶级
+[知识点]:(g/h不发音脱落去掉)
+
+dissent:不同意
+[前缀]:dis- : not 感觉的否定，不同意
+[词根]:sent ：sense 感觉。（固定转换：s/t/d;p/b/f/v/ph）
+[反]:agree
+
+spew:v.喷涌,;喷出，放出;n.;呕吐
+[派生词]:spread; spawn
+[知识点]:（字母组合1/12） sp
+
+scratch:抓
+[知识点]:scr/cr 开头的动词，一般和手有关
+
+craft:手工，手艺
+[知识点]:scr/cr 开头的动词，一般和手有关
+
+relinquish:放弃（被迫放弃，不得不放弃）
+[前缀]:re- (1.再一次；2.返回；3.向后）
+
+conjurer:n.;魔术师
+[前缀]:con- 共同
+[词根]:jure: to swear 发誓
+[助记]:共同恳求陪审团
+
+spouse:配偶
+[派生词]:espouse; spawn
+[知识点]:sp-配出，放出感觉有关
+
+ominous:不祥的
+[后缀]:-ous 形容词后缀
+[词根]:omen, 预兆，预示
+
+deforest:砍伐
+[前缀]:de- (off) 去掉
+[助记]:去掉森林-> 砍伐
+
+dehydrate:脱水的
+[前缀]:de- (off) 脱去，去掉
+
+loath:n.不愿意
+[词源]:oath：誓言
+
+pertinent:adj.;有关的，相关的
+[前缀]:per-(1.through贯穿，从始至终；2.远离away)
+[词根]:-tin- 握 , 持有
+[助记]:等于relevent
+[释义]:1.belong to 属于；2.refer to关于
+
+flu:流感
+[词源]:flow-> flu 流动
+
+fluency:流利的
+[词根]:flu -> flow 流动
+
+amplify:放大
+[后缀]:-ify   ...化的
+[派生词]:beautify, clarify;simplify
+
+beautify:美丽的
+[后缀]:-ify   ...化的
+[派生词]:amplify； beautify, clarify;simplify
+
+simplify:简化的
+[后缀]:-ify   ...化的
+[派生词]:beautify, clarify;simplify
+
+purify:纯化的
+[后缀]:-ify   ...化的
+[派生词]:beautify, clarify;simplify
+
+antibody:
+[前缀]:anti- 反
+
+adolescent:青少年
+[后缀]:-esce v./escent n./escence adj. 逐渐...样的
+[词根]:adult->adol成年人
+[派生词]:adolescence:青春期
+
+atmosphere:大气气氛
+[前缀]:ambi-/amphi- 1.周围;2.两
+
+arrant:a.;彻头彻尾的，声名狼藉的
+[后缀]:-ant
+[词根]:err- 1. mistake
+[派生词]:errant；flagrant
+[近]:notorious：臭名昭著的
+
+errant:错误的
+[词根]:err- 1. mistake
+
+erroneous:错误的
+[后缀]:-ous 形容词后缀
+[词根]:err- 1. mistake
+[助记]:err / one / ous  一个错误的
+
+inerrancy:准确的，无误的
+[前缀]:in-   否定(not)
+[词根]:err- 1. mistake
+[助记]:无 错误的 -> 准确，无误
+
+erratic:1.;a.;不规则的，不寻常的;2.;a.;古怪的;n.;怪人
+[词根]:err- 1. mistake
+[助记]:总是出错的，这人很怪
+
+aberrant:反常的，异常
+[前缀]:ab-  away 远离
+[词根]:err=wander，mistake，“漫游；犯错误”。（mistake的含义是由wander衍生而来的：漫游意味着无规划、无视正道，因此容易犯错。该词根也多用mistake“错误”之意。）
+[助记]:总出错，很反常。 在正确的道路走远->反常异常
+[近]:=abnormal
+
+abnormal:异常
+
+flagrant:1.公然的（不好的）;2.臭名昭著的
+[助记]:L(粪勺) 臭名昭著的
+[形近词]:fragrant 芳香的（r->花）
+
+fragrant:芳香的
+[助记]:r-> 花
+[形近词]:flagrant 臭名昭著的L(粪勺)
+
+articulate:a/vt.;清晰的，;清晰明白（表达）
+[词根]:art->skill 技巧
+[词源]:article  v. 清楚的表达
+
+article:文章
+
+artifact:n.;工艺品
+[词根]:art-> skill 技巧
+
+cunning:狡猾的
+[助记]:running
+[近]:sly, artful
+
+artless:淳朴的，自然的，不做作的
+[助记]:art less 没有技巧的， 淳朴的，自然的
+
+artisan:工匠
+[后缀]:-san 人 （日语过来的）
+[助记]:art -san  有技巧的人-> 工匠
+[派生词]:partisan
+
+partisan:党派
+[后缀]:-san 人 （日语过来的）
+[助记]:part(党) -san  ->党羽，党派
+
+ascetic:a.;苦行的，禁欲的;/n.;禁欲的人
+[词源]:athletic (s->th)
+[助记]:运动之前要禁欲
+[近]:abstemious
+[反]:libertine， indulgent
+
+athletic:运动
+[助记]:运动之前要禁欲 ascetic 禁欲
+
+libertine:风流才子
+[词源]:liberty 自由
+
+indulgent:a.;放纵的东西
+[助记]:in- 否定  + dull乏味  不在乏味的生活 放纵的
+
+abstemious:a.;有节制的;*
+[形近词]:abstain, abstinence 禁欲的
+
+askew:a/ad.;歪斜的，;不正地
+[助记]:skew 偏，歪
+[近]:awry
+[知识点]:a+ 动词-> adj.
+
+awry:错误
+[助记]:wry 扭曲的
+[用法]:look awry 斜视
+[知识点]:wr- 和扭曲有关
+
+wrestling:摔跤
+[派生词]:wrong, wrestling, write
+[知识点]:wr- 扭曲
+
+wrangle:争吵
+[助记]:wr-(俩人拧巴了) + angle(角) -> 口角
+[知识点]:wr- 1.扭曲 2.生气
+
+wreak:发怒，发泄怒火
+[词源]:anger -> (ea->a, k-> g) 生气
+[释义]:get anger
+[知识点]:wr- 1.扭曲 2.生气
+
+writhe:扭动（痛苦导致的）
+[用法]:writhe in pain 疼的直打滚
+[知识点]:wr- 1.扭曲 2.生气
+
+wriggle:蠕动
+[助记]:不舒服，蛄蛹
+
+sin:罪恶
+[助记]:七宗罪
+
+pride:骄傲
+[助记]:七宗罪
+
+greed:贪婪
+[助记]:七宗罪
+
+lust:欲望
+[助记]:七宗罪
+
+envy:嫉妒
+[助记]:七宗罪
+
+sloth:懒惰
+[助记]:slow 慢吞吞
+
+gluttony:暴食
+[助记]:七宗罪
+[形近词]:gluttonouts , glutinous非常粘
+
+gluttonous:贪吃的，;暴食的
+[助记]:glu tton(吨) 饕餮
+[形近词]:glutinous粘的
+
+glutinous:糯米
+[助记]:glue胶水 + tin一罐  =>一罐胶水-> 非常粘的
+[形近词]:gluttonous
+
+assiduous:a.;勤勉的，;刻苦的
+[前缀]:a+ 辅音双写
+[后缀]:-uous 形容词后缀
+[词根]:sit -> sid 坐
+[派生词]:insidious; subside; preside; dissident; sedentary; sedulous; supersede
+[近]:hardworking, industrious, diligent，diligent
+[反]:slothful懒惰的
+
+diligent:勤奋
+
+insidious:阴险的
+[前缀]:in-
+[词根]:sit -> sid 坐
+[助记]:坐在 暗处的
+
+subside:v.平息，减轻
+[前缀]:sub- 在下，向下
+[词根]:sit -> sid 坐
+[助记]:坐下来（好好说）  -> 平息， 减轻
+
+preside:vi.;主持，;掌管，;负责
+[前缀]:pre- 前 , 先
+[词根]:sit -> sid 坐
+[助记]:坐前边的， -> 主持
+[派生词]:president
+[用法]:~ + over 主持..
+
+dissident:a.持不同政见的，;n.;反对者（人）
+[前缀]:dis- apart分开
+[词根]:sit -> sid 坐
+[助记]:分开坐的
+
+sedentary:a.;久坐不动的，定居的
+[词根]:sed -> sit久坐的
+[词源]:来自拉丁语 sedens, 坐下的，停留某处的
+
+sedulous:a.;勤勉的,;勤奋刻苦的
+[后缀]:-ous 形容词后缀
+[词根]:sed-> sit
+[助记]:坐着不动-> 勤奋的刻苦的
+[近]:assiduous
+
+supersede:取代
+[前缀]:super- 1.(方向) 上
+[词根]:sed -> sit 坐
+[助记]:坐在你上边了，登你脑袋上了-> 取代了
+
+slothful:懒惰的
+[助记]:sloth 七宗罪 懒惰
+
+assimilate:vi/t.;吸收,同化
+[前缀]:a+ 辅音双写 加强
+[词根]:simil/simul/semble 相似的
+[词源]:same    前缀：sym- syn-
+[派生词]:simultaneous; dissimulate; dissemble; verisimilar
+
+simultaneous:同步,;同声的，;同时的
+[词根]:simil/simul/semble 相似的
+[词源]:same
+[助记]:simultaneous interpreter 同生传译员
+
+dissimulate:假装
+[前缀]:dis- 1. 加强 2. 否定
+[词根]:simil/simul/semble 相似的
+[词源]:same
+[助记]:dis- 加强   simulate, 假装，模仿
+[近]:dissemble
+
+dissemble:掩饰（感情，意图）
+[前缀]:dis- 1. 加强 2. 否定
+[词根]:simil/simul/semble 相似的
+[词源]:same
+[助记]:dis- not   semble 不相似的 掩饰
+[近]:dissimulate
+
+interpreter:翻译
+
+attenuate:vt.;削弱
+[前缀]:a+辅音双写
+[后缀]:ate
+[词根]:tenu -> thin 薄
+[派生词]:tenuous; attenuate; extenuate
+[反]:enhance; reinforce
+
+enhance:增强
+
+tenuous:纤细的，很薄的
+[后缀]:ous 形容词后缀
+[词根]:tenu -> thin 薄
+[助记]:tenuous air稀薄的空气， tenuous evidence 无力的证据
+
+extenuate:（罪行）减轻
+[前缀]:ex- 1. 向外， 2. 加强
+[词根]:tenu -> thin 薄
+[助记]:罪行 变薄 ->减轻
+
+augment:v.;增加
+[后缀]:-ment （特殊， 一般都是名词，但这个是） 动词
+[词根]:aug/auc/aud -> increase 增加      aud(来源add)
+[派生词]:auction; august;
+[近]:increase 增加（完全等于）， accretion; accrue; mount
+[形近词]:argument 争论的
+
+argument:证据，争吵
+
+august:a.威严的
+[助记]:八月，皇帝名（奥古斯大帝）， -> 八月的皇帝威严的
+
+audacious:大胆的，;鲁莽的，;厚颜无耻的
+[后缀]:-acious  ...东西很多的 越来越多的
+[助记]:（胆量）逐渐增多的
+[近]:effrontery
+
+loquacious:唠叨,;话多的
+[后缀]:-acious  ...东西很多的 越来越多的
+[词根]:loqu -> log
+[助记]:话多的
+
+accretion:n.;增加
+[前缀]:a+
+[词根]:cre -> create 创造
+[助记]:不断创造-> 增加
+[近]:mount
+
+mount:v.登上，爬上;2.;增加
+[助记]:mountain 山
+[派生词]:paramount； surmount
+[近]:augment; accretion; accrue
+
+paramount:派拉蒙，;最重要的
+[前缀]:para- 在上面
+[助记]:在山上-》最重要的
+
+surmount:克服,;征服，战胜
+[前缀]:sur- 1. on, 2. more 过多
+[助记]:1. surface, 2. survive
+
+austere:a.简朴的，严峻的，严厉的,;酷刑的，禁欲的
+[前缀]:au- 加强 = a-
+[词根]:stere -> stern  严格，严厉
+[近]:strict; plain; ascetic
+[反]:decorated
+
+authentic:a.可信的，真正的,;真迹的
+[词源]:author
+[近]:veracious
+[反]:bogus; phony
+
+author:作者
+
+veracious:真实的
+
+bogus:伪造的
+[助记]:a bogus doctor 假医生， 庸医
+[形近词]:Bogus 印钞机（大写）
+
+phony:假
+[助记]:声音，耳传 不可信 ->假
+
+avaricious:a.;贪婪的，贪财的;狂热的（粉丝）
+[词根]:av- greed 贪婪
+[联想]:n. avarice   (ava) 瞪大眼睛 看 rice -》贪婪的
+[近]:voracious 贪婪的，贪吃的； covet vt. 垂涎
+
+avid:a.;贪婪的;狂热的
+[助记]:avid fans 狂热的粉丝
+
+avarice:贪婪
+
+voracious:贪婪的,;贪吃的
+[后缀]:-acious  ... 变多的
+[词根]:voc-> eat 吃
+[助记]:divorce n/v.离婚
+[派生词]:divorce; herbivore; carnivore
+
+covet:vt.;贪图，;垂涎
+[助记]:covet covert  垂涎秘密的东西， 越是秘密越想得到
+[联想]:covetous  adj.
+[形近词]:covert
+
+covert:a.;秘密的
+[词源]:cover
+[反]:overt 公开的，公然的，明显的
+[知识点]:c- 包围有关， 一起共同；  n-否定
+
+herbivore:食草动物
+
+carnivore:肉食动物
+
+avert:v.;避免，;转移
+[词根]:vert/vers -> to turn
+[派生词]:convert, anniversary; advert; revert;divert;pervert;controvert; subvert;adverse;reverse;diverse;perverse;controversy; subversive; extrovert; introvert; vertex; vortex; versatile; vertigo
+[用法]:avert eyes, 避开眼神
+[知识点]:词源转换第五条， s/t 转换
+
+advert:v.注意
+[词根]:vert/vers -> to turn
+[助记]:advertisement 广告
+[释义]:pay attention to
+
+revert:vi.回到原来的话题,;恢复原状
+[前缀]:re- 1. back 向后
+[词根]:vert/vers -> to turn
+[用法]:~ to
+
+divert:1.;v.转向，;2.;娱乐
+[前缀]:di- apart 离开
+[词根]:vert/vers -> to turn
+[联想]:diversion n. 娱乐；   entertainment娱乐
+
+pervert:n/v.;变态
+[前缀]:per- 1.through 由始至终
+[词根]:vert/vers -> to turn
+[助记]:从始至终一直在变-> 变态（就是骂人的那个变态，不是生物学上的）
+
+controvert:v.辩论，;反驳
+[前缀]:contro- 相反
+[词根]:vert/vers -> to turn
+[助记]:contro- vert 转到反向-> 反驳
+
+subvert:v.颠覆，;破坏
+[前缀]:sub- 下
+[词根]:vert/vers -> to turn
+[助记]:从底层翻转 --》 颠覆
+
+adverse:a.相反的，敌对的
+[词根]:vert/vers -> to turn
+[助记]:adverse wind 逆风， adverse circumstance逆境
+[近]:adversary,adversity
+
+reverse:a/v.倒车，;倒退的，颠倒的
+[词根]:vert/vers -> to turn
+
+diverse:a.各种各样的
+[词根]:vert/vers -> to turn
+[联想]:diversity n.
+[形近词]:divert, diversion,
+
+perverse:任性的，善变的
+[前缀]:per- 1. through
+[词根]:vert/vers -> to turn
+[助记]:一直在变的
+
+controversy:n.争议
+[词根]:vert/vers -> to turn
+[联想]:controversial adj. 有争议的
+
+subversive:颠覆性的;破坏性的
+[前缀]:sub- 下
+[词根]:vert/vers -> to turn
+[助记]:从底层翻转 --》 颠覆
+
+extrovert:性格外向
+[前缀]:extro- 向外的
+[词根]:vert/vers -> to turn
+[反]:introvert
+
+introvert:内向的人
+[前缀]:intro- 向内的
+[词根]:vert/vers -> to turn
+[反]:extrovert
+
+vertex:n.;顶点
+[形近词]:vortex
+
+vortex:涡
+[助记]:o 是漩涡
+[形近词]:vertex
+
+versatile:多才多艺的*
+[前缀]:vers
+[后缀]:-ile  adj. 易于...样的
+[词根]:vert/vers -> to turn
+[词源]:易于 变化的 -》 多才多艺的
+
+vertigo:眩晕
+[词根]:vert/vers -> to turn
+[助记]:边走边转 -》 眩晕
+
+adversary:n.;对手，;敌人
+[后缀]:-ary  n.人或地点居多 ；
+[词根]:vert/vers -> to turn
+[近]:antagonict
+[形近词]:adversity
+
+adversity:n.逆境
+[词根]:vert/vers -> to turn
+[形近词]:adversary
+
+aviary:n.大型鸟舍，鸟类饲养场
+[前缀]:avi- bird 鸟
+[派生词]:aviation; aviator;auspicious;augury;
+
+aviation:航空学，飞行术
+[前缀]:avi- bird 鸟
+
+aviator:飞行员
+[前缀]:avi- bird 鸟
+
+auspicious:吉利的,;吉祥的
+[前缀]:au- -> avi-
+[词根]:spic -> spect （see）看
+[助记]:看到了鸟 -> 吉兆的
+[释义]:a good sign
+[知识点]:转换第3条： u->v形进字母替换
+
+augury:征兆
+[前缀]:au->avi- 鸟
+
+avow:v.;承认，公开声明
+[前缀]:a- 加强
+[词根]:vow/voc/vok - voice 说叫喊
+[助记]:公开去说-> 宣誓（vow)
+[近]:admit, acknowledge; confess; aver
+[反]:disavow
+[释义]:to admit sth. or ackonwledge to public
+[形近词]:aver
+
+vocal:a.声音的
+[词根]:voc/vok -> voice  （to call)说叫喊
+[派生词]:equivocal; vociferous;perovlce;
+
+equivocal:a.模棱两可
+[前缀]:equi 相等
+[后缀]:-al 形容词后缀
+[词根]:voc - voice 声音
+[助记]:声音相等的
+[近]:ambiguous
+
+vociferous:a.;喧嚷的
+[词根]:voc/vok -> voice  （to call)说叫喊
+[助记]:带来声音，吵闹的=noise
+
+provoke:激怒，挑拨，煽动
+[前缀]:pro- 前面
+[词根]:voc/vok -> voice  （to call)说叫喊
+[释义]:provoke sb. -> make sb. angry
+
+revoke:撤销
+[前缀]:re- 1. back
+[词根]:voc/vok -> voice  （to call)说叫喊
+[助记]:revoke  my order/promise 把我的命令喊回来 -> 取消收回
+
+convoke:召集，集合，集会
+[前缀]:con- 共同
+[词根]:voc/vok -> voice  （to call)说叫喊
+[助记]:把大家喊道一块 -> 召集，集合集会
+
+invoke:请求
+[前缀]:in- 深入，加强
+[词根]:voc/vok -> voice  （to call)说叫喊
+[助记]:加强去说-> 请求
+
+evoke:唤起（情感）
+[前缀]:e- 方向向外
+[词根]:voc/vok -> voice  （to call)说叫喊
+[助记]:喊出来-> 唤出来
+[释义]:evoke his interest in basketball
+
+balmy:
+
+balm:香油
+
+palm:棕榈
+
+baneful:
+
+bane:贝恩
+
+wane:消退
+
+sane:理智的
+
+arcane:神秘的
+
+inane:愚蠢的
+
+baleful:有害的
+
+bale:贝尔
+
+barricade:
+
+barren:贫瘠的
+
+embargo:禁运
+
+barbarian:野蛮人
+
+barrier:障碍
+
+blockade:封锁
+
+curfew:宵禁
+
+bawdy:
+
+lewd:好色
+
+erotic:情色
+
+benign:
+
+benediction:祝福
+
+benevolent:仁慈的
+
+malefactor:罪犯
+
+malevolent:恶意的
+
+malignant:恶性
+
+beneficial:有益的
+
+malice:恶意
+
+malign:恶性
+
+malfeasance:违法行为
+
+malcontent:不满的
+
+malady:疾病
+
+malaise:不适
+
+belie:掩饰
+
+belittle:贬低
+
+beguile:欺骗
+
+besiege:围困
+
+beleaguer:围
+
+guileless:朴实
+
+guilt:内疚
+
+bestow:
+
+endow:赋予
+
+donate:捐赠
+
+dote:溺爱
+
+condone:宽恕
+
+absolve:赦免
+
+blasphemy:
+
+blaspheme:亵渎
+
+profane:亵渎
+
+blatant:
+
+overt:公开的
+
+bloated:臃肿的
+
+blotch:污斑
+
+boisterous:
+
+flamboyant:艳丽的
+
+boycott:抵制
+
+bolster:
+
+pillow:枕头
+
+lobster:龙虾
+
+undermine:破坏
+
+bondage:
+
+bandage:绷带
+
+enfranchise:解放
+
+thrall:奴役
+
+bravado:
+
+gallant:英勇的，勇敢的
+
+intrepid:强悍
+
+plucky:勇敢的
+
+breach:
+
+breed:品种
+
+brood:沉思
+
+braid:编织
+
+broach:拉刀
+
+brink:
+
+fringe:边缘
+
+rim:轮辋
+
+verge:边缘
+
+infringe:侵犯
+
+brim:帽沿
+
+trim:装饰
+
+grim:严峻
+
+bulge:
+
+bull:牛
+
+bullish:乐观
+
+bully:流氓
+
+bucolic:田园诗
+
+bumble:
+
+humble:卑微的
+
+fumble:摸
+
+mumble:咕噜
+
+jumble:混乱
+
+tumble:下跌
+
+stumble:跌倒
+
+crumble:崩溃
+
+grumble:抱怨
+
+cacophonous:
+
+euphonious:悦耳的
+
+phonograph:留声机
+
+symphony:交响曲
+
+callous:
+
+calloused:hands;老茧的手
+
+calumniate:
+
+calumny:诽谤
+
+slander:诽谤
+
+libel:诽谤
+
+label:标签
+
+camouflage:v.;伪装
+
+cantankerous:
+
+peevish:暴躁的脾气
+
+irascible:易怒的
+
+crabbed:抱怨
+
+waspish:易怒的
+
+bilious:胆汁的
+
+liverish:脾气坏的
+
+canvass:
+
+canvas:帆布
+
+captious:
+
+cape:斗篷
+
+caption:标题
+
+precipice:悬崖
+
+captivate:迷惑
+
+capitulate:屈服
+
+carp:鲤鱼
+
+cavil:吹毛求疵
+
+finicky:挑剔的
+
+fastidious:挑剔的
+
+cardinal:
+
+cordial:亲切
+
+cardiac:心
+
+cardiologist:心脏病
+
+concord:和谐
+
+discord:纷争
+
+carnage:
+
+carnal:肉体的
+
+carcass:尸体
+
+reincarnate:转世
+
+slaughter:屠杀
+
+massacre:大屠杀
+
+assassinate:暗杀
+
+execute:执行
+
+lynch:私刑
+
+holocaust:大屠杀
+
+cataclysm:
+
+disaster:灾难
+
+catastrophe:灾难
+
+calamity:灾难
+
+censorious:
+
+censor:审查
+
+censure:责难
+
+census:人口普查
+
+consensus:一致
+
+censorship:审查
+
+cession:
+
+cede:放弃
+
+recede:消退
+
+concede:承认
+
+accede:同意
+
+precede:先于
+
+intercede:求情
+
+secede:退出
+
+antecede:在…之前
+
+chastise:
+
+chasten:惩罚
+
+cast:演员
+
+chaste:贞洁
+
+caste:等级
+
+castigate:修订
+
+overcast阴暗的:
+
+downcast:沮丧的
+
+outcast:流浪的人
+
+chauvinism:沙文主义;
+
+chivalrous:
+
+valiant:勇敢的
+
+valorous:勇敢的
+
+convalesce:渐愈
+
+cavalier:骑士
+
+invalid:无效
+
+choreography:
+
+choir:合唱团
+
+chorus:合唱
+
+circumlocution:
+
+obloquy:耻辱
+
+colloquy:会话
+
+soliloquy:独白
+
+eloquent:雄辩的
+
+interlocution:对话
+
+clairvoyance:透视，洞擦力
+
+clement:
+
+climate:气候
+
+deliberate:故意
+
+contemplate:考虑
+
+ruminate:沉思
+
+ponder:思想要点
+
+coltish:
+
+colt:小马
+
+jolt:震动
+
+molt:脱毛
+
+dolt:傻瓜
+
+combustible:
+
+spontaneous:自发
+
+combustion:燃烧
+
+inflammable:易燃
+
+ignite:点燃
+
+commensurate:
+
+tantamount:相当于
+
+congruent:全等
+
+commemorate:纪念
+
+consummate:完善
+
+complacent:
+
+complaisant:彬彬有礼
+
+mulish:执拗的
+
+conciliation:
+
+conciliate:调解
+
+reconcile:协调
+
+supercilious:目空一切的
+
+condiment:
+
+abscond:潜逃
+
+recondite:深奥的
+
+confide:
+
+confidant:知己
+
+diffident:缺乏自信的
+
+fidelity:富达
+
+perfidious:背信弃义的
+
+defy:藐视
+
+constrict:
+
+strict:严格
+
+strain:应变
+
+restrict:限制
+
+astrict:限制
+
+constrain:限制
+
+restrain:限制
+
+compress:压缩
+
+oppress:压迫
+
+suppress:抑制
+
+repress:抑制
+
+contiguity:
+
+tact:机智
+
+intact:完整的
+
+tangle:纠结
+
+tangible:有形
+
+contagion:蔓延
+
+proximity:接近
+
+approximately:约
+
+contumacy:
+
+contumely:傲慢
+
+tumid:肿胀的
+
+tumult:吵闹
+
+conundrum:谜语
+
+enigma:谜;enigmatic;谜一样的
+
+conviction:信念
+
+convince:说服
+
+evict:驱逐
+
+evince:表明
+
+invincible:不可战胜的
+
+vanquish:征服
+
+convivial:
+
+vivacious:活泼
+
+vivify:使活跃
+
+vitality:活力
+
+vitalize:激发
+
+corporate:
+
+incorporate:结合
+
+corpulent:肥胖的
+
+corporeal:肉体的
+
+corpse:尸体
+
+cosmic:
+
+cosmos:宇宙
+
+cosmopolitan:国际化
+
+craven:
+
+cavern:洞穴
+
+cringe:v.畏缩，谄媚
+
+crusade:
+
+cross:交叉
+
+crucial:重要
+
+crux:关键
+
+crucify:钉
+
+curt:
+
+curb:抑制
+
+goad:刺激，激励
+
+cynic:
+
+cynical:愤世嫉俗的
+
+cynicism:犬儒主义
+
+dearth:
+
+paucity:缺乏
+
+deficiency:缺陷
+
+scarcity:稀缺性
+
+sufficient:足够的
+
+glut:过剩
+
+plethora:过多
+
+scad:许多
+
+debris:碎片，残骸
+
+decipher:
+
+cipher:密码
+
+safer:安全
+
+code:代码
+
+decode:解码
+
+encode:编码
+
+deduct:
+
+duct:管
+
+abduct:绑架
+
+aqueduct:渡槽
+
+conduce:有助
+
+seduce:诱惑
+
+induce:诱导
+
+default:
+
+fallible:易犯错误的
+
+infallibility:绝无错误
+
+fallacy:谬论
+
+falsify:伪造
+
+falsehood:谎言
+
+deleterious:
+
+indelible:不可磨灭的
+
+detrimental:有害的
+
+delineate:
+
+depict:描述
+
+recount:重新计算
+
+relate:联系
+
+delinquency:
+
+juvenile:少年
+
+delinquent:违规
+
+rejuvenate:恢复
+
+delirium:
+
+delirious:发狂的
+
+demented:疯狂
+
+deranged:疯狂
+
+frenzy:疯狂
+
+freak:怪物
+
+deluge:
+
+dilate:详细
+
+dilute:稀释
+
+lavish:奢华的
+
+lavatory:厕所
+
+demarcate:
+
+immaculate:完美的
+
+marls:泥灰的
+
+spotless:一尘不染的
+
+flawless:完美的
+
+demur:
+
+demure:端庄的
+
+mature:成熟的
+
+decry:谴责
+
+descry:察看
+
+describe:描述
+
+deprecate:反对
+
+depreciate:贬值
+
+denunciation:
+
+denounce:谴责
+
+renounce:放弃
+
+enunciate:发音
+
+reprove:责备
+
+reprehend:责备
+
+reprimand:谴责
+
+rebuke:责备
+
+deport:
+
+deportation:驱逐
+
+deportment:行为
+
+potable:饮用
+
+portable:便携式
+
+disport:玩耍
+
+destitution:
+
+destitute:贫困
+
+prostitute:妓女
+
+restitute:复原
+
+subsist:存在
+
+impoverish:使贫穷
+
+penury:贫穷
+
+indigent:贫穷
+
+deteriorate:
+
+deter:阻止
+
+deterrent:威慑
+
+ameliorate:改善
+
+dexterous:
+
+dexterity:敏捷
+
+diatribe:
+
+accolade:荣誉
+
+acclaim:赞誉
+
+commend称赞:推荐
+
+eulogize:称赞
+
+exalt:高举
+
+extol:赞美
+
+compliment:赞美
+
+laud赞美:称赞
+
+complement:补充
+
+dilapidate:
+
+derelict:废弃
+
+decrepit:破旧的
+
+relics:遗迹;遗骸
+
+discompose:
+
+compose:组成
+
+composure:镇静
+
+decompose:分解
+
+expose:揭露
+
+propose:建议
+
+dispose:处理
+
+impose:实施
+
+depose:宣誓作证
+
+repose:静止
+
+transpose:转置
+
+juxtapose:并列
+
+superimpose:附加
+
+disillusion:
+
+illusion:错觉
+
+delusion:错觉
+
+prelude:序曲
+
+interlude:插曲
+
+postlude:终曲
+
+allude:提及
+
+collude:勾结
+
+elude:躲避
+
+delude:迷惑
+
+deceive:欺骗
+
+elusive:难以捉摸的
+
+disposed:
+
+disposition:性格
+
+indisposition:嫌恶
+
+predisposition:素质
+
+penchant:嗜好
+
+iodination:碘化
+
+religious:宗教
+
+political:政治
+
+sexual:性
+
+orientation:定位
+
+disseminate:
+
+inseminate:人工受精
+
+distraught:
+
+distract:分散
+
+contract:合约
+
+detract:影响
+
+retract:收回
+
+protract:延长
+
+extract:精华
+
+subtract:减去
+
+intractable:棘手
+
+divestiture:
+
+vest:授予
+
+transvestite:异装癖者
+
+travesty:滑稽
+
+dormant:
+
+active:活跃
+
+extinct:灭绝
+
+volcano:火山
+
+slumber:睡眠
+
+hibernate:休眠
+
+drab:
+
+monotonous:单调
+
+dreary:沉闷的
+
+humdrum:单调的
+
+tedious:繁琐的
+
+drudge:做苦工
+
+fag苦工:疲劳
+
+ebullience:
+
+exultant:眉飞色舞
+
+exuberant:旺盛
+
+exhilarate:兴奋
+
+hilarious:热闹
+
+elicit:
+
+licit:合法
+
+illicit:非法
+
+elope:
+
+lope:突出
+
+gallop:
+
+eminent:
+
+prominent:突出
+
+preeminent:最重要的
+
+imminent:迫在眉睫
+
+renowned:著名的
+
+emollient:
+
+mollify:安抚
+
+mollusk:软体动物
+
+demolish:拆除
+
+enervate:
+
+debilitate:衰弱
+
+enfeeble:使无力
+
+feeble:虚弱
+
+feel:感觉
+
+ensue:vi.;跟着发生，继起
+
+sue:起诉
+
+hue:色度，色调
+
+cue:提示，暗示
+
+rue:后悔
+
+entomology:
+
+anatomy:解剖学
+
+epitome:缩影
+
+bisect:一分为二
+
+dissect:剖析
+
+intersect:相交
+
+epidemic:
+
+prologue:开场白
+
+epilogue:后记
+
+epigraph:铭文
+
+endemic:流行
+
+pandemic:大流行
+
+demographic:人口
+
+equilibrium:
+
+equitable:公平
+
+equable:平静的
+
+iniquity:罪孽
+
+disinterest:不感兴趣
+
+etch:
+
+efface:抹去
+
+deface:丑化
+
+facet:方面
+
+facetious:滑稽的
+
+façade:外观
+
+euphoria:
+
+defer:推迟
+
+confer:授予
+
+conference:会议
+
+glee:欢乐合唱团
+
+bliss:幸福
+
+mirth:欢笑
+
+ecstasy:狂喜
+
+excrete:
+
+secrete:分泌
+
+discrete:离散
+
+discreet:谨慎
+
+exculpate:
+
+inculpate:控告
+
+culpable:有罪的
+
+culprit:罪魁祸首
+
+exempt:
+
+preempt:抢占
+
+redemption:解决方案
+
+redeem:救赎
+
+exonerate:
+
+onerous:繁重的
+
+onus:责任
+
+explicable:
+
+explicate:说明
+
+implicate:暗示
+
+explicit:显示
+
+implicit:隐式
+
+imply:暗示
+
+extemporize:
+
+offhand:随便的
+
+impromptu:即兴
+
+prompt:提示
+
+extricate:
+
+intricate:复杂的
+
+exude:
+
+exodus:大批离去
+
+ooze:渗出
+
+fallow:
+
+callow:乳臭未干
+
+wallow:沉溺
+
+hallow:神化
+
+holy:圣洁的
+
+fawn:
+
+fauna:动物
+
+flora:植物
+
+flower:花
+
+flatter:奉承
+
+toady:拍马屁的人
+
+sycophant:拍马屁的人
+
+feign:
+
+feint:假的
+
+simulate:模拟
+
+flag:
+
+fold:褶皱
+
+flee:逃避
+
+fling:舞
+
+flit:轻快的
+
+fleeting:短暂的
+
+flinch:退缩
+
+flexible:灵活的
+
+ostentatious:排场
+
+showy:艳丽的
+
+flaunt:
+
+gaunt:憔悴
+
+daunt:吓到
+
+vaunt:吹嘘
+
+taunt:嘲讽
+
+haunt:困扰
+
+jaunt:短途旅行
+
+saunter:漫步
+
+flip:
+
+toss:扔
+
+flippant:轻率
+
+flock:
+
+herd:牛群
+
+school:学校
+
+shoal:浅滩
+
+pack:包装
+
+swarm:群
+
+gaggle:鹅群
+
+goose:鹅
+
+flout:
+
+tout:吹捧
+
+snout:鼻口部
+
+rout:崩溃
+
+snooze:小睡
+
+sneeze:打喷嚏
+
+snore:打鼾
+
+foliage:
+
+defoliate:落叶
+
+foliate:叶状的
+
+forestall:
+
+foreshadow:预示
+
+foresight:远见
+
+forebear:祖先
+
+forefather:祖先
+
+foreboding:预感
+
+forfeit:
+
+surfeit:过度
+
+counterfeit:假冒
+
+confiscate:没收
+
+fiscal:财政
+
+forger:
+
+forge:伪造、锻造
+
+fake:假
+
+fossilize:
+
+fossil:化石
+
+ossify:硬化
+
+ossuary:藏尸骨罐子的
+
+fraud:
+
+defraud:欺骗
+
+fraudulent:欺诈
+
+frivolity:
+
+frivolous:轻浮
+
+volition:意志
+
+fugitive:
+
+refugee:难民
+
+centrifugal:离心
+
+fugacious:短暂的
+
+futile:
+
+refute:反驳
+
+suffuse:弥漫
+
+profuse:丰富的
+
+diffuse:漫反射
+
+infuse:注入
+
+effuse:流出
+
+effusive:热情洋溢
+
+fuddle:混乱
+
+gainsay:
+
+negate:否定
+
+disclaim:否认
+
+garnish:
+
+garlic:大蒜
+
+garish:花哨的
+
+garment:服装
+
+embellish:装饰;润色
+
+emblazon:颂扬
+
+festoon:以花彩装饰
+
+festival:节日
+
+generic:
+
+homogenous:同质
+
+heterogeneous:异构
+
+ingenious:巧妙的
+
+ingenuous:天真的
+
+generate:天成
+
+congenial:一致的
+
+congenital:先天的
+
+genial:亲切的
+
+degenerate:退化
+
+engender:产生
+
+glaze:
+
+glimmer:闪烁
+
+gleam:闪烁
+
+glitter:闪烁
+
+glow:辉光
+
+glare:眩光
+
+glisten:闪亮的
+
+glossy:光滑的
+
+glide:滑翔
+
+slide:幻灯片
+
+blight:疫病
+
+bleak:黯淡的
+
+bland:平淡无奇
+
+bleach:白
+
+blanch:灼
+
+blunder:失误
+
+blind:盲人
+
+graft:
+
+grow:增长
+
+draft:草案
+
+draw:得出
+
+embezzlement:挪用
+
+property:属性
+
+abscission:脱落
+
+gratuitous:
+
+gratuity:酬金
+
+congratulation:祝贺
+
+ingratiate:交心
+
+innovate:创新
+
+gratify:放纵
+
+ingrate:忘恩负义
+
+satisfy:满足
+
+grateful:感谢
+
+unprovoked:无端
+
+gregarious:
+
+congregate:聚集
+
+aggregate:合计
+
+segregate:隔离
+
+egregious:令人震惊的
+
+separate:分开的
+
+demystify:神秘面纱
+
+insulate:绝缘
+
+quarantine:检疫
+
+estrange:疏远
+
+sequester:封存
+
+grievance:
+
+grieve:悲伤
+
+aggrieve:侵害
+
+aggravate:加重
+
+grisly:
+
+gruesome:可怕的
+
+grouch:
+
+grudge:怀恨在心
+
+grueling:艰苦的
+
+grouse:松鸡
+
+grumpy:脾气暴躁的
+
+gullible:
+
+gullibility:轻信
+
+gull:鸥
+
+lull:使平静，使入睡
+
+lullaby:摇篮曲
+
+mull:仔细考虑
+
+cull:剔除
+
+hull:船体
+
+incredulous:不可思议
+
+hale:
+
+hardy:耐寒
+
+sturdy:坚固
+
+robust:强大的
+
+brawny:壮汉
+
+salubrious:有益健康
+
+brown:棕色
+
+brawn:布朗
+
+salvage:抢救
+
+hallucination:
+
+holly:冬青
+
+luster:光泽
+
+lackluster:泛善可陈
+
+lucid:清晰的
+
+elucidate:阐明
+
+pellucid:易懂
+
+translucent:半透明
+
+haphazard:
+
+unplanned:计划外的
+
+random:随机
+
+systematic:系统的
+
+hazard:危害
+
+hapless:不幸的
+
+mishap:不测
+
+hassle:
+
+haggle:讨价还价
+
+bargain:讨价还价
+
+harry:恶魔
+
+harass:骚扰
+
+pester:纠缠
+
+molest:骚扰
+
+badger:獾
+
+harassment:骚扰
+
+herbicide:
+
+genocide:种族灭绝
+
+ecocide:生态灭绝
+
+ecosystem:生态系统
+
+ecology:生态环境
+
+pesticide:农药
+
+heresy:
+
+heretical:异端
+
+heretic:异教徒
+
+hearsay:传闻
+
+hermetic:
+
+hermes:爱马仕
+
+hermit:隐士
+
+mercury:汞
+
+mercurial:善变的
+
+mercenary:佣兵
+
+hover:
+
+lounge:室
+
+hump:
+
+lump:块
+
+bump:撞击
+
+dump:转储
+
+plump:丰满
+
+slump:衰退
+
+clump:丛
+
+rumple:弄皱
+
+crumple:皱
+
+rumpus:喧嚣
+
+plummet:暴跌
+
+hypnosis:
+
+hypnotize:施催眠术
+
+hypnotic:催眠
+
+hypnotist:催眠师
+
+insomnia:失眠
+
+somnolent:昏昏欲睡
+
+soporific:催眠
+
+hypocrite:
+
+hypercritical:吹毛求疵
+
+hypocritical:虚伪的
+
+hype:炒作
+
+hyperbole:夸张
+
+hyperactive:过度活跃
+
+hypothesis:假设
+
+imbroglio:
+
+ado:纷乱
+
+harmony:和谐
+
+bedlam:喧闹
+
+commotion:骚动
+
+din:喧闹
+
+impair:
+
+repair:修复
+
+impalpable:
+
+intangible:无形的
+
+impudent:
+
+repudiate:否认
+
+imprudent:轻率的
+
+prudent:谨慎
+
+provident:公积金
+
+rash:皮疹
+
+incandescence:
+
+candidate:候选人
+
+candor:坦率
+
+inchoate:
+
+incipient:早期
+
+embryonic:胚胎
+
+rudimentary:基本的
+
+incubate:
+
+incubation:孵化
+
+recumbent:卧位
+
+incumbent:现任
+
+cumber:黄瓜
+
+encumber:产权负担
+
+succumb:弱
+
+hinder:阻碍
+
+hamper:阻碍
+
+indigenous:
+
+indignant:愤愤不平
+
+dignity:尊严
+
+impoverished:贫困
+
+indolent:
+
+condolence:慰问
+
+redolence:芬芳
+
+redolent:散发着
+
+ineffable:
+
+fable:寓言
+
+fabulous:神话般的
+
+affable:和蔼可亲的
+
+ineffaceable:不可磨灭的
+
+infatuation:
+
+infatuate:着迷
+
+fatuous:昏庸
+
+fatuity:愚昧
+
+infinitesimal:
+
+minute:微小的
+
+iota:丝毫
+
+pittance:微薄
+
+meagre:极少的
+
+meager:微薄的
+
+infraction:
+
+infract:脑梗塞
+
+suffrage:投票权
+
+fracas:吵闹
+
+fracture:骨折
+
+ostracize:排斥
+
+inquisitive:
+
+inquire:查询
+
+acquisitive:收购
+
+exquisite:精致
+
+requisite:先决条件
+
+prerequisite:前提条件
+
+insatiable:
+
+satiate:吃饱喝足
+
+saturate:饱和
+
+satire:讽刺
+
+satirical:讽刺
+
+satisfactory:满意
+
+instill:
+
+distill:提炼
+
+implant:植入
+
+inculcate:灌输
+
+culture:文化
+
+integrity:
+
+integer:整数
+
+integral:积分
+
+integrate:整合
+
+disintegrate:瓦解
+
+dismember:肢解
+
+inter:
+
+territory:境
+
+disinter:发掘
+
+terrestrial:陆地
+
+terrace:露台
+
+terrain:地形
+
+inhume:埋葬
+
+exhume:发掘
+
+humane:人性化
+
+humiliate:侮辱
+
+intersperse:
+
+disperse:分散
+
+asperse:洒下
+
+sparse:稀疏
+
+dense:密集的
+
+inveterate:
+
+veteran:老将
+
+novice:新手
+
+ingrained:根深蒂固
+
+addictive:上瘾的
+
+invidious:
+
+envisage:设想
+
+envision:设想
+
+jeopardy:
+
+jeopardize:危害
+
+peril:危险
+
+jocular:
+
+joke:笑话
+
+jocose:诙谐
+
+jocund:欢乐的
+
+jovial:
+
+jolly:快乐的
+
+jubilant:兴高采烈
+
+jubilee:周年纪念
+
+silver:白银
+
+golden:金牌
+
+diamond:钻石
+
+judicious:
+
+adjudicate:评判
+
+judicial:司法
+
+judicature:司法
+
+legislation:立法
+
+shrewd:精明的
+
+astute:精明
+
+canny:精明的
+
+tutor:导师
+
+cunning:狡猾的
+[助记]:running
+[近]:sly, artful
+
+kempt:
+
+dapper:短小精悍
+
+dowdy:寒酸
+
+kernel:
+
+narrow:狭
+
+marrow:骨髓
+
+lackadaisical:
+
+loose:宽松
+
+lax:宽松的
+
+slack:松弛
+
+diarrhea:腹泻
+
+laconic:
+
+pithy:简练
+
+concise:简洁
+
+terse:简洁
+
+succinct:简洁
+
+verbose:详细
+
+garrulous:贫嘴
+
+prolix:冗长
+
+succeed:成功
+
+languid:
+
+languor:倦怠
+
+languish:憔悴
+
+sluggish:低迷的
+
+listless:无精打采
+
+lassitude:
+
+magnitude:大小
+
+multitude:许多
+
+fortitude:刚毅
+
+latitude:经纬
+
+solitude:孤独
+
+solicitude:关怀
+
+turpitude:沦丧
+
+disturb:免打扰
+
+platitude:老生常谈的问题
+
+aptitude:资质
+
+vicissitude:变迁
+
+latent:潜在的;
+
+latency:n.潜在
+
+lateral:
+
+bilateral:双边
+
+unilateral:单方面的
+
+collateral:旁系的;附属的
+
+leniency:
+
+lenient:宽松
+
+relent:松口
+
+relentless:狠话
+
+lethargic:
+
+lethargy:嗜睡
+
+lethal:致命的
+
+fatal:致命
+
+liquidate:
+
+liquid:清澈的
+
+liquefy:液化
+
+maelstrom:
+
+male:男性
+
+storm:风暴
+
+eddy:艾迪
+
+whirlpool:漩涡
+
+magnanimous:
+
+magnate:巨头
+
+magniloquent:华而不实的
+
+animate:动画
+
+unanimous:一致的
+
+animosity:敌意
+
+animus:敌意
+
+equanimity:泰然处之
+
+pusillanimous:胆怯
+
+maladroit:不灵巧的
+
+gauche:笨拙的
+
+ailment:疾病
+
+alimentary:消化道
+
+mandatory:
+
+mandate:任务
+
+remand:还押
+
+countermand:反对命令
+
+compulsory:必修课
+
+obligatory:强制的
+
+imperative:祈使句
+
+emperor:皇帝
+
+maniacal:
+
+pyromania:纵火狂
+
+dipsomania:耽酒症
+
+megalomania:狂妄自大的
+
+kleptomania:盗窃癖
+
+hysteria:歇斯底里
+
+marital:
+
+martial:门派
+
+nuptial:婚前
+
+melancholy:
+
+saturnine:忧郁
+
+lugubrious:悲哀
+
+somber:忧郁的
+
+meretricious:
+
+gaudy:华而不实的
+
+tawdry:俗气的
+
+meritorious:有功
+
+metamorphose:
+
+metaphor:比喻
+
+metabolism:代谢
+
+transform:变换
+
+transmogrify:变形
+
+transfigure:变身
+
+meticulous:
+
+metropolitan:
+
+metropolis:大都市
+
+maternal:产妇
+
+maternity:产假
+
+matriarchy:母系社会
+
+fraternity:博爱
+
+sorority:女学生联谊会
+
+patriotism:爱国主义
+
+expatriate:外籍人士
+
+paternal:父亲
+
+patron:守护神
+
+repatriate:遣返
+
+compatriot:同胞
+
+migratory:
+
+immigrate:移民
+
+emigrate:移民
+
+migrate:迁移
+
+transmigration:轮回
+
+nomadic:游牧
+
+misgiving:
+
+mischievous:调皮
+
+misanthrope:厌世者
+
+misperceive:误解
+
+miscreant:恶棍
+
+misinform:误传
+
+modish:
+
+mode:模式
+
+modern:现代
+
+model:产品型号
+
+moderate:中度
+
+outmoded:过时
+
+modulate:调制技术
+
+modest:谦虚
+
+monarch:
+
+monogamy:
+
+marriage:婚姻状况
+
+polygamy:一夫一妻制
+
+bigamy:重婚
+
+misogamy:厌恶结婚
+
+monopoly:垄断
+
+moribund:
+
+immortal:不朽的
+
+morbid:病态
+
+mortality:死亡率
+
+mortuary:停尸间
+
+postmortem:尸检
+
+mortify:苦恼
+
+autopsy:尸检
+
+mote:
+
+mite:螨
+
+mete:判决
+
+mundane:
+
+worldly:世俗
+
+earthly:地球上
+
+subcelestial:尘世的
+
+mutate:
+
+mute:静音
+
+commute:上下班
+
+mutiny:兵变
+
+narcissist:
+
+narcissus:水仙花;
+
+narcissism:自恋的;
+
+self-abasement:自卑
+
+abase:降低、贬低
+
+debase:减低、
+
+nascent:
+
+innate=inborn:天生的;
+
+neonate:婴儿;
+
+renaissance:复兴;
+
+natal:出生的、诞生的
+
+nautical:
+
+navy:航海
+
+nausea:晕船;
+
+navigable:可通航的;
+
+circumnavigation:环球航行;
+
+navigate:航行
+
+abnegate:否定、放弃;
+
+renege:食言;
+
+renegade:叛变
+
+nexus:
+
+annex:附件;
+
+merge:合并
+
+noctilucent:夜光的
+
+equinox:春分
+
+nonchalance:
+
+calorie:热量;
+
+phlegmatic:冷淡的
+
+nondescript:
+
+script:脚本;
+
+scribe:隶;
+
+subscribe:订阅;
+
+ascribe:归因于;
+
+inscribe:题字;
+
+transcribe:抄写;
+
+prescribe:规定;
+
+proscribe:禁止;
+
+circumscribe:外接;
+
+conscript:应征入伍者
+
+nonplus:
+
+surplus盈余:
+
+nonconformist:异己;
+
+nonsuch:绝品;
+
+nonpareil:无比;
+
+compare:比较;
+
+nonentity:虚无;
+
+entire:整个;
+
+mystify:故弄玄虚;
+
+confound:惑;
+
+confuse:惑
+
+smoker:抽烟者
+
+noxious:
+
+nocuous:有毒的;
+
+obnoxious:讨厌的;
+
+noisome:丛生;
+
+pernicious:有害;
+
+internecine:自相残杀
+
+numb:
+
+number:数;
+
+dumb:哑;
+
+anesthetic:麻醉剂;
+
+local:当地;
+
+general:一般
+
+oblation:
+
+sacrifice:牺牲;
+
+allocate:分配;
+
+dislocate:脱臼;
+
+collate:对照;
+
+elate:欢欣鼓舞;
+
+proofread:校对;
+
+oblivious:
+
+oblivion:遗忘;
+
+fall:into陷入
+
+obsequious:
+
+sequel:续集;
+
+persecute:迫害;
+
+prosecute:起诉;
+
+consecutive:连续;
+
+consequence:结果
+
+obstreperous:
+
+stray:迷路;
+
+pedestrian:行人;
+
+demonstration:示范;
+
+capricious:任性;
+
+caprice:任性;
+
+rowdy:吵闹的;
+
+row:行;
+
+clamorous:闹哄哄;
+
+claim:声称
+
+odyssey:
+
+opportune:
+
+opportunity:机会
+
+orthodox:
+
+orthodontic:正畸;
+
+orthography:拼字;
+
+heterodox:非正统的;
+
+paradoxical:悖论;
+
+conventional:常规
+
+outlet:
+
+omelet:煎蛋卷;
+
+amulet:护身符;
+
+rivulet:溪流;
+
+river:河
+
+outset:
+
+onset:发病;
+
+commence:开始;
+
+comment:评论;
+
+commencement:开始;
+
+outwit:智胜;
+
+outfox:智胜;
+
+outrage:愤怒;
+
+rage:愤怒;
+
+outlandish:异乎寻常
+
+overbearing:
+
+haughty:高傲;
+
+height:傲慢;
+
+oversee:监视;
+
+overthrow:推翻;
+
+overwrought:过度紧张的;
+
+overture:序曲;
+
+overstate:夸大;
+
+override:覆盖;
+
+overhaul:翻修
+
+petition:
+
+centripetal:向心力
+
+force:力
+
+propitiate:和解
+
+entreat:恳求
+
+plead:恳求
+
+beseech:恳求
+
+petrify:
+
+petroleum:石油
+
+petrology:岩石
+
+philanthropic:
+
+zoophilous:爱护动物
+
+bibliophile:藏书
+
+bible:圣经
+
+anthropology:人类学
+
+pedophile:恋童癖
+
+pine:
+
+pineapple:菠萝
+
+haggard:枯槁
+
+placate:
+
+soothe:舒缓
+
+placid:波澜不惊
+
+placebo:安慰剂
+
+appease:安抚
+
+pacify:安抚
+
+tranquilize:安神
+
+plagiarize:
+
+plagiarism:抄袭
+
+replete:充满
+
+deplete:消耗
+
+replenish:补充
+
+ploy:
+
+maneuvre:操纵
+
+employ:应用
+
+plot:剧情
+
+precipitate:
+
+precipitous:陡峭的
+
+precipitation:降水
+
+imprudence:轻率
+
+precocious:
+
+premature:过早
+
+concoct:炮制
+
+concoction:药汁
+
+fabricate:制作
+
+predicament:
+
+predict:预测
+
+dilemma:困境
+
+valediction:别离辞
+
+farewell:告别
+
+verdict:结论是
+
+indict:起诉
+
+edict:诏书
+
+abdicate:放弃
+
+vindicate:表白
+
+vindictive:怀恨在心的
+
+quandary:困惑
+
+morass:沼泽
+
+plight:困境
+
+predominant:
+
+domain:域
+
+domicile:注册地
+
+domesticate:驯化
+
+domineering:霸气
+
+premonition:
+
+admonish:告诫
+
+summon:召唤
+
+presentiment:预感
+
+presumptuous:
+
+assume:假设
+
+responsibility:责任
+
+conceited:自负
+
+prodigal:
+
+prodigy:奇才
+
+prodigious:巨大的
+
+proliferate:
+
+nuclear:核
+
+prolific:多产的
+
+multiply:乘
+
+propagation:
+
+propaganda:宣传
+
+propagate:传播
+
+promulgate:公布
+
+irrigate:浇水
+
+subjugate:征服
+
+expurgate:删除
+
+mitigate:减排
+
+instigate:煽动
+
+profligate:肆意挥霍的
+
+propensity:
+
+impend:逼近
+
+append:附加
+
+suspend:暂停
+
+pensive:郁郁不乐
+
+recompense:赔偿
+
+ponderous:沉重的
+
+preponderant:优势
+
+interdict:禁令
+
+prohibit:禁止
+
+taboo:禁忌
+
+ban:禁止
+
+exhibit:布展
+
+inhibit:抑制
+
+pseudonym:
+
+pseudoscience:伪科学
+
+pseudomyopia:假性近视
+
+anonymous:匿名
+
+nominate:提名
+
+denominate:呼
+
+ignominy:耻辱
+
+pugnacious:
+
+repugnant:令人反感的
+
+impugn:抨击
+
+impunity:有罪不罚的现象
+
+puissance:
+
+clout:影响力
+
+cloud:云
+
+punctilious:
+
+circumspect:周到
+
+puncture:穿刺
+
+compunction:内疚
+
+pungent:刺鼻的
+
+expunge:，抹去
+
+poignant:凄美的
+
+quail:
+
+quell:平息
+
+squelch:静噪
+
+qualm:
+
+calm:平静
+
+quaver:
+
+quiver:颤抖
+
+shiver:哆嗦
+
+shake:震动
+
+shudder:不寒而栗
+
+shoulder:肩
+
+quake:地震
+
+querulous:发牢骚的
+
+quirk:
+
+queer:奇怪的
+
+eccentric:偏心
+
+bizarre:离奇
+
+bazaar:集市
+
+quaint:古雅
+
+quisling:
+
+traitor:叛徒
+
+apostate:叛教者
+
+rally:
+
+ally:盟友
+
+rampage:
+
+ramp:斜坡
+
+rampant:横行
+
+rankle:
+
+infuriate:激怒
+
+irritate:刺激;激怒
+
+incense:使发怒
+
+exasperate:激怒
+
+incentive:刺激
+
+rancor:仇恨
+
+rant:咆哮
+
+goodwill:善意
+
+rapacious:
+
+rap-/rav-:抢夺
+
+rapture:狂喜
+
+rapt:全神贯注的
+
+ravish:强夺
+
+rapid:快速
+
+rape:强奸
+
+ravage:肆虐
+
+ravenous:贪婪的
+
+bereave:使失去
+
+bereft:丧失
+
+ratiocination:
+
+rational:理性的
+
+ratify:批准
+
+ration:比
+
+ravel:
+
+rival:对手
+
+unravel:译
+
+rebuff:
+
+buffet:早餐
+
+decline:下降
+
+recalcitrant:
+
+recall:记得
+
+rebellious:叛逆
+
+rebel:反叛
+
+unruly:不羁
+
+rude:粗鲁的
+
+reciprocate:
+
+reciprocity:互惠
+
+reciprocal:倒数
+
+retaliate:报复
+
+compensate:补偿
+
+recuperate:复原;康复;
+
+recoup:恢复
+
+redoubtable:
+
+formidable:强大
+
+awesome:真棒
+
+redundant:
+
+abundant:丰富
+
+regime:
+
+regal:富豪
+
+regulate:调节
+
+regicide:弑君
+
+reign:统治
+
+rein:驾驭
+
+rigid:严格
+
+rigorous:严格
+
+digress:离题
+
+transgress:奸诈的
+
+egress:出口
+
+rehabilitate:
+
+relegate:
+
+delegate:代表
+
+eligible:资格
+
+eclectic:不拘一格
+
+reminisce:
+
+remind:特别提醒
+
+recollect:记得
+
+resilience:
+
+elasticity:弹性
+
+salient:突出
+
+conspicuous:突出
+
+assail:攻击
+
+assault:攻击
+
+desultory:断断续续
+
+resuscitate:
+
+incite:煽动
+
+solicit:征求
+
+revolt:
+
+revolve:围绕
+
+convolute:回旋
+
+devolve:下放
+
+evolve:发展
+
+voluble:健谈
+
+rotund:
+
+rotate:旋转
+
+rote:死记硬背
+
+rotating:旋转
+
+sage:
+
+saga:传奇
+
+sagacious:睿智
+
+presage:预示着
+
+sapient:贤明的
+
+conscience:良心
+
+conscientious:认真
+
+ignore:忽略
+
+recognize:认出
+
+cognizant:认知的
+
+cognition:认知
+
+sanctimonious:
+
+devout:虔诚
+
+devote:奉献
+
+pious:虔诚的
+
+piety:虔诚
+
+secret:秘密
+
+sanctimony:伪善
+
+sanctuary:保护区域
+
+sanction:制裁
+
+sacrosanct:神圣的
+
+consecrate:奉献
+
+desecrate:亵渎
+
+shrine:参拜
+
+sanguine:
+
+ruddy:红润
+
+sallow:蜡黄
+
+sorrow:悲哀
+
+sap:汁液
+
+sag:凹陷
+
+fortify:强化
+
+sapid:有趣的
+
+insipid:平淡
+
+saturnalia:
+
+carnival:狂欢节
+
+jamboree:露营
+
+orgy:狂欢
+
+spree:大礼包
+
+urge:呼吁
+
+scrupulous:
+
+screw:螺丝
+
+scrutinize:仔细检查
+
+scramble:争夺
+
+crafty:狡猾的
+
+creep:蠕变
+
+cryptic:神秘的
+
+scruple:顾忌
+
+roller:辊
+
+coaster:过山车
+
+sedate:
+
+session:会议审议
+
+sedative:镇静
+
+sediment:沉积物
+
+residue:残渣
+
+seismic:
+
+earthquake:地震
+
+seismology:地震
+
+seismometer:地震检波器
+
+anti-seismic:抗震
+
+wave:波
+
+septic:
+
+antiseptic:防腐剂
+
+aseptic:无菌
+
+putrid:腐烂
+
+putrefy:腐烂
+
+sequestrate:
+
+sloppy:
+
+slippers:拖鞋
+
+slovenly:邋遢的
+
+slur:
+
+blur:模糊;
+
+blear:朦胧的
+
+clear:明确
+
+smug:
+
+smile:微笑道
+
+smuggle:走私
+
+snug:温暖的
+
+smog:烟雾
+
+elated:兴高采烈
+
+snub:
+
+snob:势利
+
+noble:高贵
+
+solidarity:
+
+console:控制台
+
+solace:安慰
+
+inconsolable:伤心欲绝
+
+disconsolate:惆怅
+
+adumbrate:预示
+
+sonata:
+
+consonance:灵犀
+
+dissonance:不和谐
+
+cord:线
+
+resonance:共鸣
+
+resound:回响
+
+sordid:
+
+squalid:肮脏的
+
+pristine:原始
+
+filthy:污秽
+
+filter:过滤器
+
+sovereignty:
+
+spat:
+
+spit:吐
+
+spate:洪水
+
+squabble:争论
+
+quarrel:吵架
+
+wrangle:争吵
+[助记]:wr-(俩人拧巴了) + angle(角) -> 口角
+[知识点]:wr- 1.扭曲 2.生气
+
+bicker:斗嘴
+
+fray:磨损
+
+affray:争吵
+
+friction:摩擦
+
+sporadic:
+
+spot:现场
+
+radiant:辐射
+
+radioactive:放射性
+
+irradiate:照射
+
+illuminate:照亮
+
+squash:
+
+quash:撤销
+
+lash:鞭打
+
+bash:重击
+
+clash:冲突
+
+crash:崩溃
+
+smash:粉碎
+
+mash:捣烂
+
+stash:藏
+
+slash:削减
+
+abash:惑
+
+statute:
+
+stature:地位
+
+state:状态
+
+figure:图
+
+prestige:声望
+
+stem:茎
+
+stymie:阻碍
+
+stunt:阻碍生长
+
+staunch:坚定的
+
+stagnant:停滞的
+
+stasis:血瘀
+
+stance:立场
+
+stint:
+
+stingy:吝啬的
+
+stink:臭
+
+street:街道
+
+astray:走失
+
+strive:v.努力,奋斗
+
+subvention:
+
+subsidy:补贴
+
+circumvent:规避
+
+convene:召开
+
+contravene:违反
+
+intervene:干预
+
+revenue:收入
+
+kickback:回扣
+
+bounty:赏金
+
+commission:佣金
+
+alimony:赡养费
+
+aliment:养料
+
+premium:保费
+
+dividend:股利
+
+sully:
+
+sullen:愠怒
+
+sole:单独
+
+swagger:
+
+stagger:错开
+
+overwhelming:铺天盖地
+
+strut:支撑
+
+sway:
+
+swing:摆动
+
+waver:动摇
+
+dangle:悬
+
+swelter:
+
+sweat:汗
+
+sultry:闷热的
+
+synchronous:
+
+symmetry:对称
+
+synchronize:同步
+
+chronic:慢性
+
+chronological:按时间顺序
+
+spatial:空间
+
+chronometer:天文台表
+
+chronology:年代学
+
+taciturn:
+
+tacit:默契
+
+reticent:少言寡语
+
+withdrawn:沉默寡言的
+
+reserved:保留的
+
+tantalize:
+
+tantrum:发脾气
+
+taut:拉紧的;
+
+tight:紧张
+
+tepid:
+
+temperature:温度
+
+trepid:惊恐的
+
+tremble:颤抖的
+
+torpid:迟钝的
+
+torrid:炎热的
+
+theocracy:
+
+government:政府
+
+atheist:无神论者
+
+pantheon:万神殿
+
+pandemonium:乌烟瘴气
+
+democracy:民主
+
+autocracy:专制
+
+plutocracy:金权政治
+
+aristocracy:贵族
+
+bureaucracy:官僚
+
+thermal:
+
+thermometer:温度计
+
+geothermic:地热
+
+thermostat:温控器
+
+totter:
+
+extort:勒索
+
+retort:反驳
+
+contort:扭曲
+
+distort:扭曲
+
+torment:煎熬
+
+torture:拷问
+
+torturous:痛苦的
+
+tortuous:曲折的
+
+trait:个性特点
+
+treacherous:
+
+betray:背叛
+
+treason:叛逆
+
+trespass:
+
+encroach:侵犯
+
+approach:方法
+
+tribulation:
+
+contribute:贡献
+
+distribute:分发
+
+tribute:致敬
+
+retribution:报应
+
+trophy:
+
+triumph:胜利
+
+nutrition:营养
+
+atrophy:萎缩
+
+tumultuous:
+
+turbulent:
+
+turmoil:风景
+
+perturb:扰动
+
+turbid:浑浊
+
+limpid:清澈的
+
+ubiquitous:无处不在的
+
+unctuous:
+
+unguent:油腻的
+
+greasy:腻
+
+lubricant:润滑油
+
+underdog:
+
+underline:强调
+
+understate:低估
+
+underscore:下划线
+
+underrate:低估
+
+underhanded:卑劣的
+
+upbraid:
+
+reproach:责备
+
+inveigh:猛烈抨击
+
+invective:谩骂的
+
+fulminate:爆发性
+
+usurp:
+
+usury:高利贷
+
+utter:
+
+utterly:彻底
+
+utterance:话语
+
+unutterable:难言的
+
+vacillate:
+
+evacuate:撤离
+
+vacuous:空洞
+
+vanity:虚荣心
+
+vain:徒劳的
+
+vainglorious:虚荣
+
+evanescent:渐逝
+
+vagrancy:
+
+vague:模糊
+
+vogue:时尚
+
+vagary:奇思妙想
+
+extravagant:奢侈
+
+chivalry:骑士精神
+
+vapid:
+
+vapor:蒸汽
+
+evaporate:蒸发
+
+varnish:
+
+vanish:消失
+
+venom:
+
+poisonous:毒
+
+toxic:毒性
+
+poison:毒药
+
+antitoxin:抗生素
+
+detoxify:解毒
+
+intoxicate:醉人的
+
+verbal:
+
+verboten:禁止的
+
+proverb:谚语，格言
+
+viability:
+
+viable:可行的
+
+feasible:可行的
+
+deviation:偏差
+
+deviant:离经叛道
+
+devious:狡猾的
+
+pervious:透水
+
+trivia:琐事
+
+vigilant:
+
+vigor:活力
+
+invigorate:搞活
+
+vigilante:治安维持会成员
+
+vegetate:种植树木
+
+virtuoso:
+
+virtue:美德
+
+virginity:贞操
+
+virile:阳刚的
+
+virago:泼妇
+
+virtuosity:艺术鉴赏力
+
+void:
+
+devoid:没有
+
+wanderlust:旅行癖
+
+wastrel:
+
+spendthrift:败家子
+
+dissipate:消散
+
+squander:浪费
+
+fritter:挥霍的人
+
+warrant:
+
+warranty:保修
+
+guarantee:保证
+
+arrest:逮捕
+
+whelm:
+
+overwhelm:压倒
+
+submerge:淹没
+
+emerge:出现
+
+immerge:侵入
+
+immerse:浸泡
+
+wile:
+
+wily:狡猾的
+
+withdraw:
+
+withstand:耐压
+
+withhold:隐瞒
+
+xenophobia:
+
+foreign:外资
+
+xenophile:崇洋
+
+yoke:束缚
+
+yolk:蛋黄
+
+yeast:
+
+feast:盛宴
+
+ferment:发酵
+
+foment:煽动
+
+zeal:
+
+zealous:热情的
+
+zealot:狂热者
+
+jealous:嫉妒
+
+zenith:
+
+acme:极致
+
+crest:波峰
+
+apex:顶点
+
+culmination:高潮
+
+nadir:最低点
+
+sly:狡猾的
+[近]:artful, cunning
+[知识点]:sl- 和滑有关
+
+wrong:
+
+write:
+
+wrath:暴怒
+[助记]:七宗罪
+
+factory:
+
+manufactory:
+
+president:
+
+verisimilary:
+
+verisimilar:
+
+auction:拍卖
+[词根]:aug/auc/aud -> increase 增加      aud(来源add)
+[助记]:拍卖<- 一直增加
+
+divorce:
+
+convert:
+
+anniversary:
+
+perovlce:
+
+pretinent:
+
+adolescent青少年:
+
