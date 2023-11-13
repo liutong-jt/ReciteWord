@@ -1,9 +1,10 @@
 from main import *
 import pandas as pd
 import random, time
-from pygame import mixer 
+# from pygame import mixer 
+from pydub import AudioSegment
+import numpy as np
 from Word import Index
-
 
 class Recite(Word):
     '''
@@ -65,14 +66,19 @@ def know_word():
     if index.word_status.loc[recite.English].score >= 10:   # SETTING: 完成该单词
         index.word_status.loc[recite.English].score = 10
         index.word_status.loc[recite.English].status = 2
-        # mixer.init()
-        # mixer.music.load(FINISH_MUSIC)
-        # mixer.music.play()
 
     index.update()
     next_recite = recite_word_list[index.get_next_index()]
     audio_path = os.path.join(AUDIO_DIR, next_recite.English[0].lower(), f'{next_recite.English}.mp3')
-    
+
+    if index.word_status.loc[recite.English].score >= 10:   # SETTING: 完成该单词
+        Finish = AudioSegment.from_file(FINISH_MUSIC)
+        Wordwav = AudioSegment.from_file(audio_path)
+        Finish = Finish.set_frame_rate(Wordwav.frame_rate)
+        Answer = Finish + Wordwav
+        Answer = np.array(Answer.get_array_of_samples(), dtype=np.float16)
+        audio_path = (Wordwav.frame_rate, Answer)
+
     print(index.prev, index.current_index)
     return next_recite.English, next_recite.to_repr(), audio_path
 
