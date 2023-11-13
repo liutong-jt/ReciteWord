@@ -1250,11 +1250,12 @@ mount:v.登上，爬上;2.;增加
 
 paramount:派拉蒙，;最重要的
 [前缀]:para- 在上面
-[助记]:在山上-》最重要的
+[助记]:mount 山
 
 surmount:克服,;征服，战胜
 [前缀]:sur- 1. on, 2. more 过多
 [助记]:1. surface, 2. survive
+[联想]:mount 山，爬上山，克服
 
 austere:a.简朴的，严峻的，严厉的,;酷刑的，禁欲的
 [前缀]:au- 加强 = a-
@@ -1305,8 +1306,10 @@ covert:a.;秘密的
 [知识点]:c- 包围有关， 一起共同；  n-否定
 
 herbivore:食草动物
+[词根]:voc-> eat 吃
 
 carnivore:肉食动物
+[词根]:voc-> eat 吃
 
 avert:v.;避免，;转移
 [词根]:vert/vers -> to turn
