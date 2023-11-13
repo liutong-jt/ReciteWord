@@ -1,3 +1,36 @@
+# 测试播放WsFinish.wav和单词
+import gradio as gr
+import random 
+import os
+from pydub import AudioSegment
+import numpy as np
+gr.close_all()
+
+def f():
+    if random.randint(0,10) % 2 == 0:
+        Finish = AudioSegment.from_file('/mnt/e/Projects/ReciteWord/Sounds/avaricious.mp3')
+        Wordwav = AudioSegment.from_file('/mnt/e/Projects/ReciteWord/Sounds/WsFinish.wav')
+        Finish = Finish.set_frame_rate(Wordwav.frame_rate)
+        Answer = Finish + Wordwav
+        Answer = np.array(Answer.get_array_of_samples(), dtype=np.float16)
+        return '偶数', (Wordwav.frame_rate, Answer)
+    else:
+        return '奇数', '/mnt/e/Projects/ReciteWord/Sounds/avaricious.mp3'
+
+with gr.Blocks() as demo:
+    tx = gr.TextArea(value='0')
+    audio = gr.Audio(autoplay=True)
+
+    bt = gr.Button(value='button')
+
+    bt.click(fn=f, outputs=[tx, audio])
+    
+demo.launch(server_port=7860, inbrowser=True)
+
+os._exit(0)
+
+
+# 测试从文本读入单词
 import re
 
 line = 'asfslfjl ：;:舒服:啦'

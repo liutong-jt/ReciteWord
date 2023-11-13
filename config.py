@@ -16,5 +16,5 @@ config = {
 
 
 dictionary_path = r'save_text2.txt'
-AUDIO_DIR = r'/mnt/EnglishAudio'
-FINISH_MUSIC = r'/'
+AUDIO_DIR = r'F:/'
+FINISH_MUSIC = r'Sounds\WsFinish.wav'
